@@ -1,5 +1,3 @@
-function test(){
+<script type="text/javascript">
 alert('test');
-}
-
-test();
+</script>
