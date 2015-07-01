@@ -1,5 +1,5 @@
 20150701.0000   /// SIM ///
 04 SYSTEMS ACTIVE
-Magnitude   Depth     Lat     Lon      Date        Time          Referance ID
+Magnitude   Depth     Lat     Lon      Date        Time      Referance ID
 -------------------------------------------------------------------------------
-9.4         12.6      52.0    93.3     06/19/15    22:56 UTC     Last_24_Hours
+9.4         12.6      52.0    93.3     06/19/15    22:56     Last_24_Hours
