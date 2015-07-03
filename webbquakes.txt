@@ -19,5 +19,5 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 1.8         8.6       39.0   -146.0    06/20/15    02:56     Last_Month     RSMC Orchard City
 3.2         9.6       69.8     -4.6    06/20/15    18:49     Last_Month     TCWC Thunder Bay
 3.6        12.0       53.2     11.1    06/21/15    15:24     Last_Month     RSMC Orchard City
-6.7         9.1       60.2    101.8    07/02/15    00:02     Last_24_Hours  RSMC Alton
-3.4         8.5       61.7    102.4    07/02/15    03:59     Last_24_Hours  RSMC Alton
+6.7         9.1       60.2    101.8    07/02/15    00:02     This_Month     RSMC Alton
+3.4         8.5       61.7    102.4    07/02/15    03:59     This_Month     RSMC Alton
