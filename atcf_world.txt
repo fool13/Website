@@ -1,5 +1,7 @@
 20150710.0600   /// SIM ///
-01 SYSTEMS ACTIVE
+02 SYSTEMS ACTIVE
 Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 ---------------------------------------------------------------------------
 06G.STEVE        15     1010    v    #24  23.2   -106.1    00      EX
+99H.INVEST       20     1008    ^    #1    8.8     36.2    14      00
+91X.INVEST       15     1010    v    #1   12.4   -137.8    05      00
