@@ -5,4 +5,4 @@ Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 06G.STEVE        20     1006    v    #24A 23.3   -106.6    00      00
 99H.INVEST       20     1008    ^    #1    8.8     36.2    14      00
 91X.INVEST       15     1008    ^    #5A  -5.8   -133.3    07      00
-90H.INVEST       20     1010    ^    #1   11.3     72.7    10      05
+90H.INVEST       30     1002    ^    #2    12.4     74.2    60      15
