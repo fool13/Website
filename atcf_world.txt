@@ -5,4 +5,3 @@ Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 99H.INVEST       20     1008    ^    #1    8.8     36.2    14      00
 09H.EDOUARD      35     1000    ^    #3   12.8     75.0    80      20
 91H.INVEST       20     1010    ^    #1    1.4     91.2    10      00
-01X.JEAN         50     994     ^    #1  -11.4     72.4    70      20
