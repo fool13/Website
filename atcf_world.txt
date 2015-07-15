@@ -2,5 +2,5 @@
 02 SYSTEMS ACTIVE
 Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 ---------------------------------------------------------------------------
-09H.EDOUARD      40     992     ^    #4   12.8     75.0    80      20
-10H.FRANCHESCA   35     1005    ^    #2    2.7     90.8    10      SS
+09H.EDOUARD      60     989     ^    #5   15.8     78.2    80      20
+10H.FRANCHESCA   30     1005    ^    #3    4.7     82.3    00      SD
