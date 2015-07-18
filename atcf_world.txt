@@ -5,4 +5,4 @@ Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 09H.EDOUARD      120     940    v    #12   19.2    81.1     99      88
 92H.INVEST       15     1010    ^    #2    10.6    90.6     20      01
 08G.EIGHT-G      30     1003    ^    #2    6.8    -93.5     53      11
-11H.JIURIT       30     1000    ^    #1A   12.0    48.3     99      94
+11H.JIURIT       50     987    ^    #1A   12.0    48.3      99      99
