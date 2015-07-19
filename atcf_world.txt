@@ -6,3 +6,4 @@ Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 92H.INVEST       15     1009    v    #3A    10.8    90.4     20      01
 09G.NINE-G       30     1003    ^    #3A     6.9   -93.6     53      11
 11H.JIURIT       85      956    ^    #3     17.8   45.1     99      99
+99G.INVEST       20     1008    ^    #1    125.O     5.0     99      50  
