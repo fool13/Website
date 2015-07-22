@@ -39,8 +39,8 @@ Current Windshear: 5kts
 Windshear change since the last update: +4kts
 
 2. TROPICAL STORM DANNY
-Intensity: 40kts, 1002mb
-Location: 3.9*N 150.9*E
+Intensity: 45kts, 999mb
+Location: 3.1*N 151.6*E
 Movement: NW at 5kts
 Forward motion change: 0kts
 Current direction: 315 degrees
