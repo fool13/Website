@@ -1,4 +1,4 @@
-This file is to be used to display data for every storm and invest in the following categories:
+This file is to be used to display data for every storm in the following categories:
 1. Storm intensity in KNOTS and HECTOPASCALS/MILLIBARS
 2. Storm location in LATITUDE (vertical axis) and LONGITUDE (horizontal axis)
 3. Storm movement direction and speed (e.g. W at 20kts)
