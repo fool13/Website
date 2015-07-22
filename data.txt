@@ -36,8 +36,8 @@ Expected WV change in 72 hours: +0%
 Windshear change since the last update: +0kts
 
 2. TROPICAL STORM DANNY
-Intensity: 0kts, 0mb
-Location: 0*N 0*E
+Intensity: 60kts, 995mb
+Location: 3.9*N 150.9*E
 Movement: W at 0kts
 Forward motion change: 0kts
 Current direction: 0 degrees
