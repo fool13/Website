@@ -1,0 +1,36 @@
+This file is to be used to display data for every storm and invest in the following categories:
+1. Storm intensity in KNOTS and HECTOPASCALS/MILLIBARS
+2. Storm location in LATITUDE (vertical axis) and LONGITUDE (horizontal axis)
+3. Storm movement direction and speed (e.g. W at 20kts)
+4A. Forward motion speed and direction change since the last update
+4B. Expected forward motion change in 24 hours' time
+5A. SST change since the last update
+5B. Expected SST change in 24 hours' time
+6A. Water Vapour (WV) change since the last update
+6B. Expected WV change in 24 hours
+6C. Expected WV change in 72 hours
+7. Windshear change since the last update
+All of these factors should help RSMCs to forecast the storms. We also have an experimental feature 
+which attempts to plot the storm's future direction, but it is untested and unproven at this time.
+8. Expected Direction Change days 1-5
+
+INSTRUCTIONS FOR RSMCs
+If you are actively forecasting and observing the storm for yourself, please fill out the data related to your storm below
+You must input this new data up to 5 minutes before the next ATCF update (00Z, 06Z, 12Z, 18Z). Any values that aren't
+changed before the ATCF update will be filled by the Master Computer.
+
+------------------------------------------------------------------------------------------------------
+
+1. CYCLONE JIURIT
+Intensity: 0kts, 0mb
+Location: 0*N 0*E
+Movement: W at 0kts
+Forward motion change: 0kts
+Current direction: 0 degrees
+Expected forward motion change in 24 hours: +0kts
+SST change: +0*C
+Expected SST change: +0*C
+WV change since last update: +0%
+Expected WV change in 24 hours: +0%
+Expected WV change in 72 hours: +0%
+Windshear change since the last update: +0kts
