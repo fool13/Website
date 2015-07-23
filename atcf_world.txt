@@ -1,7 +1,7 @@
 20150723.1800   /// SIM ///
-04 SYSTEMS ACTIVE
+03 SYSTEMS ACTIVE
 Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 ---------------------------------------------------------------------------
 09H.EDOUARD      30      995    v    #18A   28.9    83.8     04      01
 11H.JIURIT       50      981    v    #12    28.5    50.3     14      EX
-10G.DANNY        30      1001   v    #4A     3.2  -156.9     42      01  
+10G.DANNY        30      1001   v    #4A     3.2  -157.3     33      01  
