@@ -22,21 +22,22 @@ changed before the ATCF update will be filled by the Master Computer.
 ------------------------------------------------------------------------------------------------------
 
 1. CYCLONE JIURIT
-Intensity: 70kts, 959mb
-Location: 26.8*N 49.9*E
-Movement: N at 5kts
-Forward motion change: +3kts
-Current direction: 346 degrees
-Expected forward motion change in 24 hours: +5kts
-Current SST: 24*C
-SST change: -1*C
-Expected SST change: -1*C
-Current WV: 84%
-WV change since last update: +13%
-Expected WV change in 24 hours: +13%
-Expected WV change in 72 hours: -4%
+Intensity: 55kts, 976mb
+Location: 28.1*N 50.2*E
+Movement: NW at 6kts
+Forward motion change: +1kts
+Current direction: 336 degrees
+Expected forward motion change in 24 hours: +3kts
+Current SST: 22*C
+SST change: -2*C
+Expected SST change: -0.5*C
+Current WV: 99%
+WV change since last update: +15%
+Expected WV change in 24 hours: +1%
+Expected WV change in 72 hours: +0%
 Current Windshear: 0kts
-Windshear change since the last update: -5kts
+Windshear change since the last update: -0kts
+Expected windshear change in 24 hours: +2kts
 
 2. TROPICAL STORM DANNY
 Intensity: 45kts, 999mb
