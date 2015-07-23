@@ -40,18 +40,19 @@ Windshear change since the last update: -0kts
 Expected windshear change in 24 hours: +2kts
 
 2. TROPICAL STORM DANNY
-Intensity: 45kts, 999mb
-Location: 3.1*N 151.6*E
-Movement: SW at 10kts
-Forward motion change: +5kts
-Current direction: 220 degrees
-Expected forward motion change in 24 hours: -2kts
+Intensity: 30kts, 1001mb
+Location: 3.2*N 157.3*E
+Movement: W at 4kts
+Forward motion change: -6kts
+Current direction: 272 degrees
+Expected forward motion change in 24 hours: +5kts
 Current SST: OVER LAND
 SST change: OVER LAND
 Expected SST change: OVER LAND
-Current WV: 90%
-WV change since last update: +10%
-Expected WV change in 24 hours: +4%
-Expected WV change in 72 hours: -12%
-Current Windshear: 13kts
-Windshear change since the last update: -3kts
+Current WV: 85%
+WV change since last update: -5%
+Expected WV change in 24 hours: -12%
+Expected WV change in 72 hours: +24%
+Current Windshear: 1kts
+Windshear change since the last update: -12kts
+Expected windshear change in 24 hours: -1kts
