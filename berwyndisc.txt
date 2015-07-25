@@ -1,0 +1,4 @@
+This is the place to talk about disturbances that could become tropical storms, and to add elaboration
+for actual tropical storms that is not mentioned in the Public Advisories.
+Example of a discussion: https://github.com/fool13/Force-Thirteen/blob/master/orchardcitydisc.txt
+Example of a public advisory: https://github.com/fool13/Force-Thirteen/blob/master/orchardcitypa.txt
