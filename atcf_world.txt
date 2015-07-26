@@ -5,4 +5,4 @@ Name             kts     mb   Trend   Adv   Lat    Lon    ChTS%    ChHU%
 11G.CARNBY      40      997     v   #2A   43.4    -10.7     50      21
 12H.TWELVE-H    30      1005    -   #1A   26.7    158.0     09      00
 12G.TIFFANY     35      1000    ^   #2A   16.1    -77.2     74      33
-13H.UBERMEGA    1000    -95444  v   #1    10.4     70.4     100     100
+14H.UBERMEGA    1000    -95444  v   #1    10.4     70.4     100     100
