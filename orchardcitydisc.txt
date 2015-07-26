@@ -1,15 +1,17 @@
 ORCHARD CITY STORM WARNING CENTRE
 -------------------------------------------
-STORM DISCUSSION - 18 JUL 2015   23:00 UTC
+STORM DISCUSSION - 26 JUL 2015   21:00 UTC
 -------------------------------------------
-At 23:00 UTC ... 17:00 FDT, there is one active tropical cyclone in the Orchard City AOR or in the Northwestern 
+At 21:00 UTC ... 15:00 FDT, there is one active tropical cyclone in the Orchard City AOR or in the Northwestern 
 Fool's Ocean (extending to 30 degrees west and 0 degrees north).
-Tropical Depression Nine-G (1003mb) is currently located at 6.8 degrees north, 93.5 degrees west, or 690 miles 
-east-southeast of Port Foy, Foy Province. The depression is currently nearly stationary. Satellite imagery 
-indicates that the depression is struggling with dry air entrainment, and is in danger of dissipating entirely 
-within a matter of hours.
-Computer models are still unsure on whether this system will attain tropical storm status or not, but the latest
-developments show that this system is unlikely to bounce back from an increasing amount of dry air supremecy.
+Tropical Storm TIFFANY (998mb) is currently located at 16.0 degrees north, 77.4 degrees west, or 1080 miles 
+east of Rushden Point, Orchard Province. The storm is currently moving west at 5mph. Satellite imagery 
+indicates that the storm is quickly developing despite high windshear around its northern and western fringes,
+and is displaying no signs of slowdown with its intensification.
+Computer models are anticipating Tiffany to become a hurricane in the next three days, however, with its current
+burst of intensification, this could occur much sooner. Extended forecasts show the storm moving towards Fool
+Province, and so far it is unclear whether Tiffany will recurve before reaching the coast.
 
+Next update at 21:00 FDT
 $$
 Forecaster Foy
