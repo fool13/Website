@@ -1,34 +1,33 @@
 ORCHARD CITY STORM CENTRE
-0000 UTC   19 JUL 2015
+2100 UTC   26 JUL 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #3 on TROPICAL DEPRESSION NINE-G
-35MPH     1003MB
-6.8N      93.5W
-Movement W at 1mph
+Advisory #2 on TROPICAL STORM TIFFANY
+50MPH     998MB
+16.0N      77.4W
+Movement W at 5mph
 
 STATUS
-At 00:00 UTC ... 18:00 FDT ... Tropical Depression Nine-G was located 690 miles east-southeast of Port Foy, Foy
-Province, and is expected to remain nearly stationary in the next 24 hours. No land areas are currently experience
-adverse conditions related to the storm.
+At 21:00 UTC ... 15:00 FDT ... Tropical Storm Tiffany was located 1080 miles east-southeast of Rushden Point,
+Orchard Province, and is expected to continue moving gradually west over the next few days. No land areas are
+currently experiencing adverse conditions related to the storm.
 
 WARNINGS
 There are no storm-related watches or warnings in effect.
 
 FORECAST
-The depression is likely to continue to stall in the area and draw slightly towards the west in the next 24 hours,
-before quicker movement towards the north or north-west. It is possible that TD 09-G will dissipate within the next
-48 hours due to dry air entrainment, but there is a chance that the storm will survive this and possibly
-reintensify or regenerate on Tuesday.
+The storm is likely to continue to the west before a slight northward element is introduced into its forecast track
+by day five. It is currently unclear whether the storm will turn away from the east coast or continue towards it
+and pose a landfall threat.
 
-INIT   30KTS      6.8    -93.5
-+12    30KTS      6.9    -93.6
-+24    30KTS      7.1    -93.7
-+48    30KTS      7.7    -94.1
-+72    35KTS      9.1    -94.8
-+96    45KTS      10.6   -94.4
-+120   50KTS      12.6   -93.8
+INIT   45KTS      16.0    -77.4
++12    55KTS      15.8    -78.4
++24    65KTS      15.9    -79.6
++48    75KTS      16.2    -81.0
++72    80KTS      16.5    -83.5
++96    85KTS      16.9    -85.6
++120   85KTS      17.4    -87.7
 
 $$
 Forecaster Foy
