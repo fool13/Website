@@ -3,7 +3,7 @@ RMASD002
 Raega Meteorological Agency
 RSMC PEARCE
 
-PUBLIC STORM DISCUSSION
+PUBLIC STORM DISCUSSION #2A
 18:00 UTC WED JUL 29, 2015
 
 
@@ -15,4 +15,4 @@ before entering the NFMC Leimup Area of Responsibility.
 No other systems are expected in the next 5 days.
 
 
-NEXT UPDATE WILL BE ISSUED AT 00:00 UTC WED JUL 30, 2015
+NEXT UPDATE WILL BE ISSUED AT 00:00 UTC THU JUL 30, 2015
