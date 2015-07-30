@@ -1,5 +1,5 @@
 /// SIM ///
-05 SYSTEMS ACTIVE
+06 SYSTEMS ACTIVE
 Date             Name            kts     mb   Trend   Adv   Lat    Lon       ChTS%    ChHU%
 ------------------------------------------------------------------------------------------
 20150730.0900    11G.CARNBY      80      970     ^   #10A   48.0    -7.2      42      00
