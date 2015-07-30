@@ -21,13 +21,13 @@ The storm is likely to continue to the west or west-northwest, and latest model 
 potential turn towards the north by day five. It is currently unclear whether the storm will turn away from the 
 east coast or continue towards it and pose a landfall threat after day five.
 
-INIT   45KTS      16.0N    -77.4W
-+12    45KTS      16.8N    -86.9W
-+24    50KTS      17.1N    -87.8W
-+48    55KTS      17.5N    -89.4W
-+72    55KTS      18.0N    -90.9W
-+96    50KTS      18.6N    -93.3W
-+120   50KTS      19.6N    -96.6W
+INIT   45KTS      16.0N    77.4W
++12    45KTS      16.8N    86.9W
++24    50KTS      17.1N    87.8W
++48    55KTS      17.5N    89.4W
++72    55KTS      18.0N    90.9W
++96    50KTS      18.6N    93.3W
++120   50KTS      19.6N    96.6W
 
 $$
 Forecaster Foy
