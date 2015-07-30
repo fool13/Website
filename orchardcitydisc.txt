@@ -1,17 +1,20 @@
 ORCHARD CITY STORM WARNING CENTRE
 -------------------------------------------
-STORM DISCUSSION - 26 JUL 2015   21:00 UTC
+STORM DISCUSSION - 30 JUL 2015   18:00 UTC
 -------------------------------------------
-At 21:00 UTC ... 15:00 FDT, there is one active tropical cyclone in the Orchard City AOR or in the Northwestern 
+At 18:00 UTC ... 12:00 FDT, there is one active tropical cyclone in the Orchard City AOR or in the Northwestern 
 Fool's Ocean (extending to 30 degrees west and 0 degrees north).
-Tropical Storm TIFFANY (998mb) is currently located at 16.0 degrees north, 77.4 degrees west, or 1080 miles 
-east of Rushden Point, Orchard Province. The storm is currently moving west at 5mph. Satellite imagery 
-indicates that the storm is quickly developing despite high windshear around its northern and western fringes,
-and is displaying no signs of slowdown with its intensification.
-Computer models are anticipating Tiffany to become a hurricane in the next three days, however, with its current
-burst of intensification, this could occur much sooner. Extended forecasts show the storm moving towards Fool
-Province, and so far it is unclear whether Tiffany will recurve before reaching the coast.
+OCSWC is issuing advisories on Tropical Storm TIFFANY (995mb), currently located at 16.6 degrees north, 86.4 degrees
+west, or 700 miles east of Rushden Point, Orchard Province. The storm is currently moving west at 4mph. 
+Satellite imagery indicates that the storm is still struggling with moderate amounts of vertical wind shear, and
+Sea Surface Temperatures are thought to be only marginal, around 26*C. These conditions are likely to continue to
+dominate in the next five days, though Tiffany will be entering a warmer patch in the SSTs in the next 48 hours.
+Therefore, the forecast intensity calls for slight strengthening before weakening once more in days 3-5.
+Beyond five days, there remains uncertainty on the future of the storm. Tiffany may take advantage of the warmer
+waters near the coast of Fool's Republic, though dry air is currently dominant in this area and it is unknown
+whether intensification will occur. Those on the east coast of the country, from Rushden Point northwards, should
+continue to monitor the progress of the storm.
 
-Next update at 21:00 FDT
+Next update at 18:00 FDT
 $$
 Forecaster Foy
