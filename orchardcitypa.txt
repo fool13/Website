@@ -1,15 +1,15 @@
 ORCHARD CITY STORM CENTRE
-0600 UTC   31 JUL 2015
+1200 UTC   31 JUL 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #11 on TROPICAL STORM TIFFANY
+Advisory #11A on TROPICAL STORM TIFFANY
 50MPH     996MB
-16.8N      87.5W
-Movement W at 6mph
+16.9N      88.0W
+Movement W at 7mph
 
 STATUS
-At 06:00 UTC ... 00:00 FDT ... Tropical Storm Tiffany was located 640 miles east-southeast of Rushden Point,
+At 12:00 UTC ... 06:00 FDT ... Tropical Storm Tiffany was located 600 miles east-southeast of Rushden Point,
 Orchard Province, and is expected to continue moving gradually west or west-northwest over the next few days. No 
 land areas are currently experiencing adverse conditions related to the storm.
 
@@ -17,17 +17,17 @@ WARNINGS
 There are no storm-related watches or warnings in effect.
 
 FORECAST
-The storm is likely to continue to the west or west-northwest, and latest model runs are not picking up on any
-significant turn towards the north by day five. It is currently unclear whether the storm will turn away from the 
+The storm is likely to continue to the west or west-northwest, and latest model runs are beginning to pick up
+on a more northerly trend in its track. However, it is still unclear whether the storm will turn away from the 
 east coast or continue towards it and pose a landfall threat after day five.
 
 INIT   45KTS      16.8N    87.5W
-+12    45KTS      16.8     88.6W
-+24    50KTS      16.9     89.7W
-+48    50KTS      17.1     91.4W
-+72    50KTS      17.6     93.7W
-+96    45KTS      18.2     95.9W
-+120   45KTS      18.8     97.7W
++12    50KTS      17.0N   -88.9W
++24    50KTS      17.1N   -89.9W
++48    45KTS      17.5N   -91.6W
++72    45KTS      18.3N   -94.1W
++96    45KTS      19.0N   -96.3W
++120   40KTS      19.7N   -98.1W
 
 $$
 Forecaster Foy
