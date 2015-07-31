@@ -1,20 +1,20 @@
 ORCHARD CITY STORM WARNING CENTRE
 -------------------------------------------
-STORM DISCUSSION - 31 JUL 2015   06:00 UTC
+STORM DISCUSSION - 31 JUL 2015   12:00 UTC
 -------------------------------------------
-At 06:00 UTC ... 00:00 FDT, there is one active tropical cyclone in the Orchard City AOR or in the Northwestern 
+At 12:00 UTC ... 06:00 FDT, there is one active tropical cyclone in the Orchard City AOR or in the Northwestern 
 Fool's Ocean (extending to 30 degrees west and 0 degrees north).
-OCSWC is issuing advisories on Tropical Storm TIFFANY (996mb), currently located at 16.8 degrees north, 87.5 degrees
-west, or 640 miles east of Rushden Point, Orchard Province. The storm is currently moving west at 6mph. 
+OCSWC is issuing advisories on Tropical Storm TIFFANY (996mb), currently located at 16.9 degrees north, 88.0 degrees
+west, or 600 miles east of Rushden Point, Orchard Province. The storm is currently moving west at 7mph. 
 Satellite imagery indicates that the storm is continuing to struggle with significant vertical wind shear, and
 Sea Surface Temperatures are thought to remain only marginal, around 26*C. These conditions are likely to continue to
-dominate in the next five days, though Tiffany will be entering a warmer patch in the SSTs in the next 24 hours.
-Therefore, the forecast intensity calls for slight strengthening before weakening once more in days 1-2.
+dominate in the next five days, though Tiffany will be entering a warmer patch in the SSTs shortly.
+Therefore, the forecast intensity calls for slight strengthening before weakening once more in the next 24 hours.
 Beyond five days, there remains uncertainty on the future of the storm. Tiffany may take advantage of the warmer
 waters near the coast of Fool's Republic, though dry air is currently dominant in this area and it is unknown
 whether intensification will occur. Those on the east coast of the country, from Rushden Point northwards, should
 continue to monitor the progress of the storm.
 
-Next update at 06:00 FDT
+Next update at 12:00 FDT
 $$
 Forecaster Foy
