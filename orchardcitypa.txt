@@ -22,12 +22,12 @@ significant turn towards the north by day five. It is currently unclear whether 
 east coast or continue towards it and pose a landfall threat after day five.
 
 INIT   45KTS      16.8N    87.5W
-+12    45         16.8     88.6W
-+24    50         16.9     89.7W
-+48    50         17.1     91.4W
-+72    50         17.6     93.7W
-+96    45         18.2     95.9W
-+120   45         18.8     97.7W
++12    45KTS      16.8     88.6W
++24    50KTS      16.9     89.7W
++48    50KTS      17.1     91.4W
++72    50KTS      17.6     93.7W
++96    45KTS      18.2     95.9W
++120   45KTS      18.8     97.7W
 
 $$
 Forecaster Foy
