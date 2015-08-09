@@ -1,4 +1,4 @@
-/// SIM /// ## NOTICE: NEWEST SYSTEMS WILL NOW APPEAR FIRST ##
+/// SIM ///
 05 SYSTEMS ACTIVE
 Date             Name            kts     mb   Trend   Adv   Lat      Lon       ChTS%    ChHU%
 ------------------------------------------------------------------------------------------
