@@ -1,33 +1,38 @@
 ORCHARD CITY STORM CENTRE
-1200 UTC   31 JUL 2015
+0100 UTC   10 AUG 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #11A on TROPICAL STORM TIFFANY
-50MPH     996MB
-16.9N      88.0W
-Movement W at 7mph
+Advisory #8A on Tropical Storm VON
+50MPH     993MB
+7.1N      132.6W
+Movement NE at 6mph
 
 STATUS
-At 12:00 UTC ... 06:00 FDT ... Tropical Storm Tiffany was located 600 miles east-southeast of Rushden Point,
-Orchard Province, and is expected to continue moving gradually west or west-northwest over the next few days. No 
-land areas are currently experiencing adverse conditions related to the storm.
+At 01:00 UTC ... 19:00 FDT ... Tropical Storm Von was located 80 miles south of the border between Padstow and
+Guy Counties, and is expected to continue moving gradually northeast and progressively east over the next few days. 
+Storm force winds extend up to 40 miles to the north of the storm's centre and may possibly reach land soon.
 
 WARNINGS
-There are no storm-related watches or warnings in effect.
+A Tropical Storm Watch remains in effect from Little Inlet, Padstow County, to Cove Point, Guy County. No inland
+tropical storm watches or warnings are in effect.
+Small planes and boats are advised not to travel along the coast of the watch area or any points south of this.
 
 FORECAST
-The storm is likely to continue to the west or west-northwest, and latest model runs are beginning to pick up
-on a more northerly trend in its track. However, it is still unclear whether the storm will turn away from the 
-east coast or continue towards it and pose a landfall threat after day five.
+The storm is likely to continue to the northeast, and is expected to rapidly weaken and dissipate near the Hampton
+Peninsula by Tuesday evening. A landfall as a tropical storm is unlikely, and warnings are not likely to be
+activated.
 
-INIT   45KTS      16.8N    87.5W
-+12    50KTS      17.0N   -88.9W
-+24    50KTS      17.1N   -89.9W
-+48    45KTS      17.5N   -91.6W
-+72    45KTS      18.3N   -94.1W
-+96    45KTS      19.0N   -96.3W
-+120   40KTS      19.7N   -98.1W
+INIT   45KTS      7.1N    132.6W
+TROPICAL STORM
++12    40KTS      8.3N    132.3W
+TROPICAL STORM
++24    35KTS      9.3N    131.5W
+TROPICAL STORM
++36    30KTS      9.9N    129.8W
+TROPICAL DEPRESSION
++48    25KTS      10.7N   126.1W
+REMNANT LOW
 
 $$
 Forecaster Foy
