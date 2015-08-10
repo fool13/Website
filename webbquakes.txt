@@ -26,5 +26,5 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 3.4        10.4       60.3     88.1    07/15/15    15:48     This_Month     RSMC Alton
 4.5        10.7       31.4   -127.4    07/18/15    18:15     This_Month     RSMC Alton
 6.4        10.0       38.4     90.0    07/18/15    18:18     This_Month     RSMC Alton
-4.2        10.4       30.4     92.3    08/03/15    17:04     This_Month  RSMC Alton
-12.4       40.5       35.4   -120.4    08/08/15    17:17     Last_24_Hours  RSMC Alton
+4.2        10.4       30.4     92.3    08/03/15    17:04     This_Month     RSMC Alton
+4.8        40.5       35.4   -120.4    08/08/15    17:17     This_Month     RSMC Alton
