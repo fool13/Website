@@ -22,19 +22,19 @@ changed before the ATCF update will be filled by the Master Computer.
 ------------------------------------------------------------------------------------------------------
 
 1. TROPICAL STORM VON
-Intensity: 50kts, 990mb
-Location: 7.1*N 132.6*W
-Movement: NE at 5kts
-Forward motion change: +2kts
-Current direction: 038 degrees
-Expected forward motion change in 24 hours: +2kts
-Current SST: 26*C
-SST change: -1*C
-Expected SST change: +0.5*C
-Current WV: 97%
-WV change since last update: +8%
-Expected WV change in 24 hours: +3%
-Expected WV change in 72 hours: -23%
-Current Windshear: 43kts
-Windshear change since the last update: +13kts
+Intensity: 30kts, 1004mb
+Location: 10.5*N 128.2*W
+Movement: ENE at 6kts
+Forward motion change: 1kts
+Current direction: 062 degrees
+Expected forward motion change in 24 hours: +7kts
+Current SST: 24.5*C
+SST change: -1.5*C
+Expected SST change: -1.5*C
+Current WV: 100%
+WV change since last update: +3%
+Expected WV change in 24 hours: -23%
+Expected WV change in 72 hours: +20%
+Current Windshear: 47kts
+Windshear change since the last update: +4kts
 Expected windshear change in 24 hours: +5kts
