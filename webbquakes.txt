@@ -21,11 +21,11 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 3.6        12.0       53.2     11.1    06/21/15    15:24     Last_Month     RSMC Orchard City
 6.7         9.1       60.2    101.8    07/02/15    00:02     Last_Month     RSMC Alton
 3.4         8.5       61.7    102.4    07/02/15    03:59     Last_Month     RSMC Alton
-4.6        15.5       31.2     89.4    07/14/15    20:44     This_Month     RSMC Alton
-10.2       30.4       60.4     89.0    07/15/15    15:45     This_Month     RSMC Alton
-3.4        10.4       60.3     88.1    07/15/15    15:48     This_Month     RSMC Alton
-4.5        10.7       31.4   -127.4    07/18/15    18:15     This_Month     RSMC Alton
-6.4        10.0       38.4     90.0    07/18/15    18:18     This_Month     RSMC Alton
+4.6        15.5       31.2     89.4    07/14/15    20:44     Last_Month     RSMC Alton
+10.2       30.4       60.4     89.0    07/15/15    15:45     Last_Month     RSMC Alton
+3.4        10.4       60.3     88.1    07/15/15    15:48     Last_Month     RSMC Alton
+4.5        10.7       31.4   -127.4    07/18/15    18:15     Last_Month     RSMC Alton
+6.4        10.0       38.4     90.0    07/18/15    18:18     Last_Month     RSMC Alton
 4.2        10.4       30.4     92.3    08/03/15    17:04     This_Month     RSMC Alton
 4.8        40.5       35.4   -120.4    08/08/15    17:17     This_Month     RSMC Alton
 4.5        8.5        40.0    -95.0    08/10/15    22:00     This_Month     RSMC Craig  
