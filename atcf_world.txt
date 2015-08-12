@@ -1,6 +1,5 @@
 /// SIM ///
-02 SYSTEMS ACTIVE
+01 SYSTEMS ACTIVE
 Date             Name            kts     mb   Trend   Adv   Lat      Lon       ChTS%    ChHU%
 ------------------------------------------------------------------------------------------
 20150812.1500    13H.KALAIT-DAVIS 105     949     N   #17    27.3     13.7      84      59
-20150812.1200    14H.GARRY        30      1009    v   #32    40.9    130.9      05      EX
