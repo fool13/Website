@@ -1,38 +1,44 @@
 ORCHARD CITY STORM CENTRE
-0100 UTC   10 AUG 2015
+0000 UTC   14 AUG 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #8A on Tropical Storm VON
-50MPH     993MB
-7.1N      132.6W
-Movement NE at 6mph
+Advisory #1 on Tropical Depression FOURTEEN
+35MPH     1000MB
+8.1N      95.1W
+Movement NW at 2mph
 
 STATUS
-At 01:00 UTC ... 19:00 FDT ... Tropical Storm Von was located 80 miles south of the border between Padstow and
-Guy Counties, and is expected to continue moving gradually northeast and progressively east over the next few days. 
-Storm force winds extend up to 40 miles to the north of the storm's centre and may possibly reach land soon.
+At 00:00 UTC ... 18:00 FDT ... Tropical Depression Fourteen was located 480 miles east-southeast of Port Foy,
+Foy Province, and is expected to quickly intensify over the next few days, owing to incredibly conducive
+atmospheric conditions. We have high confidence on the likelihood of this cyclone reaching hurricane status in
+the next five days. The storm is currently nearly stationary and is expected to gradually speed up in forward
+motion towards the northwest.
 
 WARNINGS
-A Tropical Storm Watch remains in effect from Little Inlet, Padstow County, to Cove Point, Guy County. No inland
-tropical storm watches or warnings are in effect.
-Small planes and boats are advised not to travel along the coast of the watch area or any points south of this.
+No warnings are in effect for land areas
 
 FORECAST
-The storm is likely to continue to the northeast, and is expected to rapidly weaken and dissipate near the Hampton
-Peninsula by Tuesday evening. A landfall as a tropical storm is unlikely, and warnings are not likely to be
-activated.
+The storm is likely to gradually move towards the northwest and could threaten the east coast of Fool's Country
+in the next five days, though it is more likely that the storm will harmlessly recurve out to sea without 
+significantly affecting land.
 
-INIT   45KTS      7.1N    132.6W
-TROPICAL STORM
-+12    40KTS      8.3N    132.3W
-TROPICAL STORM
-+24    35KTS      9.3N    131.5W
-TROPICAL STORM
-+36    30KTS      9.9N    129.8W
+INIT   35MPH      8.1N    95.1W
 TROPICAL DEPRESSION
-+48    25KTS      10.7N   126.1W
-REMNANT LOW
++12    45MPH      8.3N    95.4W
+TROPICAL STORM
++24    65MPH      8.8N    96.0W
+TROPICAL STORM
++36    75MPH      9.4N    96.6W
+CATEGORY 1 HURRICANE
++48    85MPH      10.1N   96.9W
+CATEGORY 1 HURRICANE
++72    105MPH     11.8N   97.7W
+CATEGORY 2 HURRICANE
++96    115MPH     14.4N   98.4W
+CATEGORY 3 HURRICANE
++120   115MPH     17.4N   98.2W
+CATEGORY 3 HURRICANE
 
 $$
 Forecaster Foy
