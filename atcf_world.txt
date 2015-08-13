@@ -1,4 +1,4 @@
-/// SIM ///
+/// SIM /// ## IMPORTANT - A CODE TEST IS UNDERWAY TO MAKE SURE DATA IS BEING DISPLAYED CORRECTLY -JASON ##
 04 SYSTEMS ACTIVE
 Date             Name            kts     mb   Trend   Adv   Lat      Lon       ChTS%    ChHU%
 ------------------------------------------------------------------------------------------
