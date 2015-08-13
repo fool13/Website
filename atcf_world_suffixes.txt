@@ -1,16 +1,29 @@
 
-## NORTHERN HEMISPHERE SUFFIXES ##
 
+## NORTHERN HEMISPHERE SUFFIXES ##
 ------------------------------------------
-THE NEXT G SUFFIX IS 96G
+RSMC Orchard City-
+THE NEXT [G] SUFFIX IS [96G]
 ------------------------------------------
-THE NEXT H SUFFIX IS 92H
+TCWC Thunder Bay / NWO Naujaat-
+THE NEXT [H] SUFFIX IS [92H]
 ------------------------------------------
+RSMC Alton-
+THE NEXT [N] SUFFIX IS [90N]
+------------------------------------------
+RSMC Mineral City-
+THE NEXT [D] SUFFIX IS [90D]
+------------------------------------------
+RSMC Kilmarnock-
+THE NEXT [K] SUFFIX IS [90K]
+------------------------------------------
+
 
 ## SOUTHERN HEMISPHERE SUFFIXES ##
-
 ------------------------------------------
-THE NEXT X SUFFIX IS 92X
+RSMC Pearce / NFMC Leimup-
+THE NEXT [X] SUFFIX IS [92X]
 ------------------------------------------
-THE NEXT Y SUFFIX IS 90Y
+RSMC Jean City / RSMC Santa Catarina-
+THE NEXT [J] SUFFIX IS [90J]
 ------------------------------------------
