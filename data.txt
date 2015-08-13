@@ -21,20 +21,20 @@ changed before the ATCF update will be filled by the Master Computer.
 
 ------------------------------------------------------------------------------------------------------
 
-1. INVEST 95G
-Intensity: 25kts, 1004mb
-Location: 7.8*N 94.7*W
-Movement: W at 3kts
-Forward motion change: 0kts
-Current direction: 279 degrees
-Expected forward motion change in 24 hours: +5kts
-Current SST: 30.0*C
-SST change: 0*C
-Expected SST change: +1.5*C
-Current WV: 84%
-WV change since last update: +6%
-Expected WV change in 24 hours: -27%
-Expected WV change in 72 hours: -13%
-Current Windshear: 17kts
-Windshear change since the last update: -8kts
-Expected windshear change in 24 hours: -7kts
+1. INVEST 95G - 1800 UTC on August 13, 2015
+Intensity: 30kts, 1002mb
+Location: 8.0*N 95.0*W
+Movement: NW at 1kts
+Forward motion change: -2kts
+Current direction: 308 degrees
+Expected forward motion change in 24 hours: 0kts
+Current SST: 29.0*C
+SST change: -1*C
+Expected SST change: +0.5*C
+Current WV: 85%
+WV change since last update: +1%
+Expected WV change in 24 hours: -7%
+Expected WV change in 72 hours: -6%
+Current Windshear: 5kts
+Windshear change since the last update: -12kts
+Expected windshear change in 24 hours: -6kts
