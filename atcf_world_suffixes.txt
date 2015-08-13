@@ -2,28 +2,28 @@
 
 ## NORTHERN HEMISPHERE SUFFIXES ##
 ------------------------------------------------------------
-RSMC Orchard City / RSMC Berwyn (Right from 180°)-
+RSMC Orchard City / RSMC Berwyn (Right from 180°) :
 THE NEXT [G] SUFFIX IS [96G]
 ------------------------------------------------------------
-TCWC Thunder Bay / NWO Naujaat-
+TCWC Thunder Bay / NWO Naujaat :
 THE NEXT [H] SUFFIX IS [92H]
 ------------------------------------------------------------
-RSMC Alton-
+RSMC Alton :
 THE NEXT [N] SUFFIX IS [90N]
 ------------------------------------------------------------
-RSMC Mineral City / RSMC Berwyn (Left from 180°)-
+RSMC Mineral City / RSMC Berwyn (Left from 180°) :
 THE NEXT [D] SUFFIX IS [92D]
 ------------------------------------------------------------
-RSMC Kilmarnock-
+RSMC Kilmarnock :
 THE NEXT [K] SUFFIX IS [90K]
 ------------------------------------------------------------
 
 
 ## SOUTHERN HEMISPHERE SUFFIXES ##
 ------------------------------------------------------------
-RSMC Pearce / NFMC Leimup-
+RSMC Pearce / NFMC Leimup :
 THE NEXT [X] SUFFIX IS [92X]
 ------------------------------------------------------------
-RSMC Jean City / RSMC Santa Catarina-
+RSMC Jean City / RSMC Santa Catarina :
 THE NEXT [J] SUFFIX IS [90J]
 ------------------------------------------------------------
