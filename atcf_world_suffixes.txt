@@ -9,7 +9,7 @@ TCWC Thunder Bay / NWO Naujaat :
 THE NEXT [H] SUFFIX IS [92H]
 ------------------------------------------------------------
 RSMC Alton :
-THE NEXT [N] SUFFIX IS [90N]
+THE NEXT [N] SUFFIX IS [91N]
 ------------------------------------------------------------
 RSMC Mineral City / RSMC Berwyn (Left from 180°) :
 THE NEXT [D] SUFFIX IS [92D]
