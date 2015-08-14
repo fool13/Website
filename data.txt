@@ -21,20 +21,20 @@ changed before the ATCF update will be filled by the Master Computer.
 
 ------------------------------------------------------------------------------------------------------
 
-1. TROPICAL DEPRESSION 14G - 0000 UTC on August 14, 2015
-Intensity: 30kts, 1000mb
-Location: 8.1*N 95.1*W
+1. TROPICAL STORM WANDA - 1200 UTC on August 14, 2015
+Intensity: 40kts, 994mb
+Location: 8.3*N 95.3*W
 Movement: NW at 1kts
 Forward motion change: 0kts
-Current direction: 311 degrees
-Expected forward motion change in 24 hours: +5kts
-Current SST: 31.0*C
-SST change: +2*C
-Expected SST change: +0*C
-Current WV: 95%
-WV change since last update: +10%
-Expected WV change in 24 hours: +5%
-Expected WV change in 72 hours: +0%
+Current direction: 314 degrees
+Expected forward motion change in 24 hours: -1kts
+Current SST: 30.5*C
+SST change: -0.5*C
+Expected SST change: -1*C
+Current WV: 99%
+WV change since last update: +4%
+Expected WV change in 24 hours: -26%
+Expected WV change in 72 hours: -0%
 Current Windshear: 0kts
-Windshear change since the last update: -5kts
-Expected windshear change in 24 hours: +6kts
+Windshear change since the last update: 0kts
+Expected windshear change in 24 hours: +1kts
