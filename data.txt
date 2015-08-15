@@ -21,38 +21,38 @@ changed before the ATCF update will be filled by the Master Computer.
 
 ------------------------------------------------------------------------------------------------------
 
-1. TROPICAL STORM WANDA - 1200 UTC on August 15, 2015
-Intensity: 70kts, 979mb
-Location: 9.7*N 96.3*W
+1. TROPICAL STORM WANDA - 1800 UTC on August 15, 2015
+Intensity: 90kts, 966mb
+Location: 10.2*N 96.7*W
 Movement: NW at 6kts
-Forward motion change: +0kts
-Current direction: 328 degrees
-Expected forward motion change in 24 hours: +2kts
-Current SST: 29.0*C
-SST change: -1.0*C
+Forward motion change: 0kts
+Current direction: 330 degrees
+Expected forward motion change in 24 hours: +1kts
+Current SST: 28.5*C
+SST change: -0.5*C
 Expected SST change: 0*C
-Current WV: 99%
-WV change since last update: +0%
-Expected WV change in 24 hours: +0%
-Expected WV change in 72 hours: -14%
-Current Windshear: 0kts
-Windshear change since the last update: 0kts
-Expected windshear change in 24 hours: +5kts
+Current WV: 85%
+WV change since last update: -14%
+Expected WV change in 24 hours: -9%
+Expected WV change in 72 hours: -9%
+Current Windshear: 2kts
+Windshear change since the last update: +2kts
+Expected windshear change in 24 hours: -2kts
 
-2. INVEST 96G - 1200 UTC on August 15, 2015
-Intensity: 20kts, 1007mb
-Location: 6.7*N 85.8*W
-Movement: N at 1kts
-Forward motion change: -1kts
-Current direction: 348 degrees
-Expected forward motion change in 24 hours: +3kts
-Current SST: 29.5*C
-SST change: +1*C
-Expected SST change: -0.5*C
-Current WV: 50%
-WV change since last update: +19%
-Expected WV change in 24 hours: +5%
-Expected WV change in 72 hours: +14%
-Current Windshear: 30kts
-Windshear change since the last update: +12kts
-Expected windshear change in 24 hours: +12kts
+2. INVEST 96G - 1800 UTC on August 15, 2015
+Intensity: 25kts, 1005mb
+Location: 7.3*N 86.0*W
+Movement: N at 6kts
+Forward motion change: +6kts
+Current direction: 349 degrees
+Expected forward motion change in 24 hours: -3kts
+Current SST: 28.5*C
+SST change: -1*C
+Expected SST change: +1*C
+Current WV: 61%
+WV change since last update: +11%
+Expected WV change in 24 hours: -8%
+Expected WV change in 72 hours: +19%
+Current Windshear: 16kts
+Windshear change since the last update: -16kts
+Expected windshear change in 24 hours: -4kts
