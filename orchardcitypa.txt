@@ -3,42 +3,27 @@ ORCHARD CITY STORM CENTRE
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #1 on Tropical Depression FOURTEEN
-35MPH     1000MB
-8.1N      95.1W
-Movement NW at 2mph
+Advisory #5 on Tropical Depression FOURTEEN
+65MPH     986MB
+8.9N      95.7W
+Movement NW at 7mph
 
 STATUS
-At 00:00 UTC ... 18:00 FDT ... Tropical Depression Fourteen was located 480 miles east-southeast of Port Foy,
-Foy Province, and is expected to quickly intensify over the next few days, owing to incredibly conducive
-atmospheric conditions. We have high confidence on the likelihood of this cyclone reaching hurricane status in
-the next five days. The storm is currently nearly stationary and is expected to gradually speed up in forward
-motion towards the northwest.
+At 00:00 UTC ... 18:00 FDT ... Tropical Storm Wanda was located 470 miles east-southeast of Port Foy,
+Foy Province, and is currently rapidly intensifying due to incredibly conducive conditions around the storm and very
+good conditions to the storm's northwest and north, where it is expected to become a major hurricane.
+Wind shear is near nil, water vapour is very high, ocean heat content is high, Sea Surface Temperatures are
+high.
 
 WARNINGS
-No warnings are in effect for land areas
+No warnings are in effect for land areas, however the storm is likely to generate rough surf along the eastern
+coast of Fool's Republic.
 
 FORECAST
-The storm is likely to gradually move towards the northwest and could threaten the east coast of Fool's Country
-in the next five days, though it is more likely that the storm will harmlessly recurve out to sea without 
-significantly affecting land.
-
-INIT   35MPH      8.1N    95.1W
-TROPICAL DEPRESSION
-+12    45MPH      8.3N    95.4W
-TROPICAL STORM
-+24    65MPH      8.8N    96.0W
-TROPICAL STORM
-+36    75MPH      9.4N    96.6W
-CATEGORY 1 HURRICANE
-+48    85MPH      10.1N   96.9W
-CATEGORY 1 HURRICANE
-+72    105MPH     11.8N   97.7W
-CATEGORY 2 HURRICANE
-+96    115MPH     14.4N   98.4W
-CATEGORY 3 HURRICANE
-+120   115MPH     17.4N   98.2W
-CATEGORY 3 HURRICANE
+The storm is likely to gradually move towards the north or northwest and could threaten the east coast of 
+Fool's Country in the next five days, though it is more likely that the storm will harmlessly recurve out to sea
+without significantly affecting land. Wanda is likely to peak as a Category 4 storm with winds of up to 145mph by
+Wednesday.
 
 $$
 Forecaster Foy
