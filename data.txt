@@ -38,3 +38,21 @@ Expected WV change in 72 hours: -21%
 Current Windshear: 0kts
 Windshear change since the last update: 0kts
 Expected windshear change in 24 hours: +0kts
+
+2. INVEST 96G - 0000 UTC on August 15, 2015
+Intensity: 20kts, 1008mb
+Location: 6.6*N 85.8*W
+Movement: NW at 2kts
+Forward motion change: N/A
+Current direction: 302 degrees
+Expected forward motion change in 24 hours: +4kts
+Current SST: 28.5*C
+SST change: N/A
+Expected SST change: -1.5*C
+Current WV: 31%
+WV change since last update: N/A
+Expected WV change in 24 hours: -18%
+Expected WV change in 72 hours: +5%
+Current Windshear: 18kts
+Windshear change since the last update: +7kts
+Expected windshear change in 24 hours: +6kts
