@@ -1,29 +1,29 @@
 ORCHARD CITY STORM CENTRE
-0000 UTC   15 AUG 2015
+1800 UTC   15 AUG 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #5 on Tropical Storm WANDA
-65MPH     986MB
-8.9N      95.7W
-Movement NW at 7mph
+Advisory #6A on Hurricane WANDA
+105MPH     966MB
+10.2N      96.7W
+Movement NW at 6mph
 
 STATUS
-At 00:00 UTC ... 18:00 FDT ... Tropical Storm Wanda was located 470 miles east-southeast of Port Foy,
-Foy Province, and is currently rapidly intensifying due to incredibly conducive conditions around the storm and very
+At 18:00 UTC ... 12:00 FDT ... Hurricane Wanda was located 440 miles east-southeast of Port Foy,
+Foy Province, and is continuing to rapidly intensify due to incredibly conducive conditions around the storm and very
 good conditions to the storm's northwest and north, where it is expected to become a major hurricane.
 Wind shear is near nil, water vapour is very high, ocean heat content is high, Sea Surface Temperatures are
-high.
+high but decreasing slightly.
 
 WARNINGS
 No warnings are in effect for land areas, however the storm is likely to generate rough surf along the eastern
 coast of Fool's Republic.
 
 FORECAST
-The storm is likely to gradually move towards the north or northwest and could threaten the east coast of 
-Fool's Country in the next five days, though it is more likely that the storm will harmlessly recurve out to sea
-without significantly affecting land. Wanda is likely to peak as a Category 4 storm with winds of up to 145mph by
-Wednesday.
+Forecast models have been trending slowly westwards in the past 24 hours, and storm conditions are becoming more of
+a possibility for the east coast of Fool's Republic. However, hurricane conditions are still not expected here. Those
+living anywhere between Rushden Point and Cape Wrath, including islands, should stay tuned for future updates and 
+advice from your local National Weather Service office.
 
 $$
 Forecaster Foy
