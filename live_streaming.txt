@@ -4,7 +4,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: Breaking News - Tropical Depression 11E in the East Pacific Ocean
-BREAKING_NEWS_DESCRIPTION: Tropical Depression 11-E no longer expected to become a tropical storm in the Eastern Pacific
+BREAKING_NEWS_DESCRIPTION: 11-E is no longer expected to become a tropical storm
 
 All warnings have been lifted in the Western Pacific but twin typhoons remain a threat
 Tropical Depression 11E could become a tropical storm near Mexico
