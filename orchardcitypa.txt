@@ -1,29 +1,30 @@
 ORCHARD CITY STORM CENTRE
-1800 UTC   15 AUG 2015
+1200 UTC   16 AUG 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #6A on Hurricane WANDA
-105MPH     966MB
-10.2N      96.7W
-Movement NW at 6mph
+Advisory #8 on Major Hurricane WANDA
+130MPH     949MB
+11.1N      97.4W
+Movement NW at 12mph
 
 STATUS
-At 18:00 UTC ... 12:00 FDT ... Hurricane Wanda was located 440 miles east-southeast of Port Foy,
-Foy Province, and is continuing to rapidly intensify due to incredibly conducive conditions around the storm and very
-good conditions to the storm's northwest and north, where it is expected to become a major hurricane.
-Wind shear is near nil, water vapour is very high, ocean heat content is high, Sea Surface Temperatures are
-high but decreasing slightly.
+At 12:00 UTC ... 06:00 FDT ... Major Hurricane Wanda was located 420 miles east-southeast of Port Foy,
+Foy Province, and is continuing to rapidly intensify due to very good conditions around the storm which is likely to
+remain for some time, opening up the possibility of Wanda becoming the first ever Category 5 recorded in the area.
+Wind shear is near nil, water vapour is high but decreasing, ocean heat content remains high, Sea Surface Temperatures
+are high and have risen since yesterday.
+A Hurricane Hunter mission will be sent into Wanda later today.
 
 WARNINGS
 No warnings are in effect for land areas, however the storm is likely to generate rough surf along the eastern
 coast of Fool's Republic.
 
 FORECAST
-Forecast models have been trending slowly westwards in the past 24 hours, and storm conditions are becoming more of
-a possibility for the east coast of Fool's Republic. However, hurricane conditions are still not expected here. Those
-living anywhere between Rushden Point and Cape Wrath, including islands, should stay tuned for future updates and 
-advice from your local National Weather Service office.
+Forecast models still have the storm fairly close to the east coast of the Fool's Republic, and storm conditions 
+are a possibility for this region. However, hurricane conditions are still not expected here. Those living anywhere
+between Rushden Point and Cape Wrath, including islands, should stay tuned for future updates and advice from your 
+local National Weather Service office.
 
 $$
 Forecaster Foy
