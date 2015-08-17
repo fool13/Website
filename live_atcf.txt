@@ -1,7 +1,15 @@
-<table style="width:100%;height:100%;background:silver;">
+<table>
 <tr>
 <td>
-
+<strong>EX-ELEVEN</strong><br>
+Position: 22.6N, 122.1W<br>
+Wind: 30mph<br>
+Pressure: 1005mb<br>
+18:00UTC, 08/17/15
+</td>
+<td>
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rb-animated.gif">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif">
 </td>
 </tr>
 </table>
