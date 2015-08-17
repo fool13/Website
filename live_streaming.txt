@@ -1,13 +1,13 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=2sZemhFif5c
-ALERT_MODE: ON
-BREAKING_NEWS: ON
+ALERT_MODE: OFF
+BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=o2TuLPUeFgU
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS - GONI A CATEGORY 4 TYPHOON&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;GONI A CATEGORY 4 TYPHOON&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific&nbsp;
 
 All warnings have been lifted in the Western Pacific but twin typhoons remain a threat
