@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/tracker/
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: Breaking News - Tropical Depression 11E in the East Pacific Ocean
-BREAKING_NEWS_DESCRIPTION: 11-E is no longer expected to become a tropical storm
+BREAKING_NEWS_HEADING: Breaking News - Goni A Category 4 Typhoon
+BREAKING_NEWS_DESCRIPTION: Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific Ocean
 
 All warnings have been lifted in the Western Pacific but twin typhoons remain a threat
 Tropical Depression 11E could become a tropical storm near Mexico
