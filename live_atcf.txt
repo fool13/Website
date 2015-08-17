@@ -8,8 +8,8 @@ Pressure: 1005mb<br>
 18:00UTC, 08/17/15
 </td>
 <td>
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rb-animated.gif">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rb-animated.gif" style="height:100px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:100px;">
 </td>
 </tr>
 </table>
