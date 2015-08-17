@@ -1,24 +1,23 @@
 ORCHARD CITY STORM CENTRE
-1200 UTC   16 AUG 2015
+0600 UTC   17 AUG 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #8 on Major Hurricane WANDA
-130MPH     949MB
-11.1N      97.4W
-Movement NW at 12mph
+Advisory #9A on Major Hurricane WANDA
+145MPH     936MB
+12.4N      98.0W
+Movement NW at 15mph
 
 STATUS
-At 12:00 UTC ... 06:00 FDT ... Major Hurricane Wanda was located 420 miles east-southeast of Port Foy,
-Foy Province, and is continuing to rapidly intensify due to very good conditions around the storm which is likely to
-remain for some time, opening up the possibility of Wanda becoming the first ever Category 5 recorded in the area.
-Wind shear is near nil, water vapour is high but decreasing, ocean heat content remains high, Sea Surface Temperatures
-are high and have risen since yesterday.
-A Hurricane Hunter mission will be sent into Wanda later today.
+At 06:00 UTC ... 00:00 FDT ... Major Hurricane Wanda was located 390 miles east of Port Foy, Foy Province, and 
+has stopped intensifying due to an eyewall replacement cycle. This process is expected to be completed within a
+matter of hours, and the weakening trend is expected to be short lived before a resumption of intensification and
+a probable Category 5 peak in the next 48 hours.
 
 WARNINGS
-No warnings are in effect for land areas, however the storm is likely to generate rough surf along the eastern
-coast of Fool's Republic.
+No warnings are in effect for land areas, however the storm is now generating rough surf between Port Foy and
+Rushden Point. All beaches in the area are closed. Rough sea conditions are expected to begin further north in the
+next day or two.
 
 FORECAST
 Forecast models still have the storm fairly close to the east coast of the Fool's Republic, and storm conditions 
