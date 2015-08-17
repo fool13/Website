@@ -8,7 +8,7 @@ SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=o2TuLPUeFgU
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 110mph at 15:00 UTC<br>&nbsp;Goni&apos;s air pressure indicated to be at 920mb&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 110mph at 15:00 UTC&nbsp;<br>&nbsp;Goni&apos;s air pressure indicated to be at 920mb&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Depression 11E and 96L still alive, the former likely to dissipate very soon
