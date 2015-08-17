@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/tracker/
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: BREAKING NEWS - GONI A CATEGORY 4 TYPHOON
-BREAKING_NEWS_DESCRIPTION: Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific
+BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS - GONI A CATEGORY 4 TYPHOON&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific&nbsp;
 
 All warnings have been lifted in the Western Pacific but twin typhoons remain a threat
 Tropical Depression 11E could become a tropical storm near Mexico
