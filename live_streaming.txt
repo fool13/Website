@@ -2,7 +2,7 @@ ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.nrlmry.navy.mil/archdat/global/stitched/SoS/20150816.2100.multisat.visir.bckgr.global_SoS_global_SoS_GeoColor.DAYNGT.jpg
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS - GONI A CATEGORY 4 TYPHOON&nbsp;
