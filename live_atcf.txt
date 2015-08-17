@@ -1,4 +1,15 @@
-11E ELEVEN 150817 1800  22.6N  122.1W EPAC    25  1005
-16W GONI 150817 1800  17.9N  137.8E WPAC  115   937
-17W ATSANI 150817 1800  15.6N  157.1E WPAC  105   944
-96L INVEST 150817 1800   9.8N   32.2W ATL   30  1010
+<table>
+<tr>
+<td>
+<strong>EX-ELEVEN</strong><br>
+Position: 22.6N, 122.1W<br>
+Wind: 30mph<br>
+Pressure: 1005mb<br>
+18:00UTC, 08/17/15
+</td>
+<td>
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rb-animated.gif">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif">
+</td>
+</tr>
+</table>
