@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/himawari-8_band_03_sector_04.gif
+CONTENT_URL: http://www.force-13.com/tracker/
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: Breaking News - Tropical Depression 11E in the East Pacific Ocean
 BREAKING_NEWS_DESCRIPTION: 11-E is no longer expected to become a tropical storm
