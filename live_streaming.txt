@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.nrlmry.navy.mil/tc-bin/tc_home2.cgi?AGE=Latest&ACTIVES=15-EPAC-10E.HILDA,15-EPAC-11E.ELEVEN,15-WPAC-16W.GONI,15-WPAC-17W.ATSANI,15-ATL-96L.INVEST&SIZE=full&PHOT=yes&NAV=tc&ATCF_BASIN=wp&ATCF_YR=2015&ATCF_FILE=/SATPRODUCTS/kauai_data/www/atcf_web/public_html/image_archives/2015/wp162015.15081612.gif&CURRENT_ATCF_FILE=/SATPRODUCTS/kauai_data/www/atcf_web/public_html/image_archives/2015/wp162015.15081612.gif&CURRENT=20150817.0132.mtsat2.x.vis1km_high.16WGONI.115kts-937mb-165N-1417E.100pc.jpg&CURRENT_ATCF=wp162015.15081612.gif&ATCF_NAME=wp162015&ATCF_DIR=/SATPRODUCTS/kauai_data/www/atcf_web/public_html/image_archives/2015&MO=AUG&BASIN=WPAC&STYLE=tables&YEAR=2015&YR=15&STORM_NAME=16W.GONI&ARCHIVE=active&AREA=pacific/southern_hemisphere&DIR=/SATPRODUCTS/TC/tc15/WPAC/16W.GONI/vis/geo/1km_zoom&TYPE=ssmi&PROD=gif
+CONTENT_URL: http://www.nrlmry.navy.mil/atcf_web/image_archives/2015/wp162015.15081612.gif
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS - GONI A CATEGORY 4 TYPHOON&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific&nbsp;
