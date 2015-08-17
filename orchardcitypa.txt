@@ -12,9 +12,9 @@ Movement NNW at 15mph
 
 STATUS
 At 00:00 UTC ... 18:00 FDT ... Major Hurricane Wanda was located 380 miles east of Port Foy, Foy Province, and 
-is rapidly intensifying once again. Wanda has sustained winds of 165mph ... 265km/h, with a central air pressure of
-917mb ... 27.08inHg. Dry air remains present to the northwest of the storm, and Wanda is still battling to keep this
-away from the storm's center.
+is rapidly intensifying once again. Hurricane Hunters have found that Wanda now has sustained winds of 
+165mph ... 265km/h, with a central air pressure of 917mb ... 27.08inHg. Dry air remains present to the northwest 
+of the storm, and Wanda is still battling to keep this away from the storm's center.
 
 WARNINGS
 No warnings are in effect for land areas, however the storm is now generating rough surf between Port Foy and
