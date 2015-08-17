@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://www.youtube.com/watch?v=oy0fe-xZ30E&start=40
+CONTENT_URL: https://www.youtube.com/watch?v=3oZIaVF7DQU&start=40
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: Breaking News - Tropical Depression 11E in the East Pacific Ocean
 BREAKING_NEWS_DESCRIPTION: 11-E is no longer expected to become a tropical storm
