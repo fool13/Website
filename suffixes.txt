@@ -6,13 +6,13 @@ RSMC Orchard City / RSMC Berwyn (Right from 180°) :
 THE NEXT [G] SUFFIX IS [97G]
 ------------------------------------------------------------
 TCWC Thunder Bay / NWO Naujaat :
-THE NEXT [H] SUFFIX IS [93H]
+THE NEXT [H] SUFFIX IS [95H]
 ------------------------------------------------------------
 RSMC Alton :
 THE NEXT [N] SUFFIX IS [94N]
 ------------------------------------------------------------
 RSMC Mineral City / RSMC Berwyn (Left from 180°) :
-THE NEXT [D] SUFFIX IS [92D]
+THE NEXT [D] SUFFIX IS [93D]
 ------------------------------------------------------------
 RSMC Kilmarnock :
 THE NEXT [K] SUFFIX IS [90K]
