@@ -1,18 +1,19 @@
 ORCHARD CITY STORM CENTRE
-0600 UTC   17 AUG 2015
+1800 UTC   17 AUG 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-Advisory #9A on Major Hurricane WANDA
-145MPH     936MB
-12.4N      98.0W
-Movement NW at 15mph
+Advisory #10A on Major Hurricane WANDA
+155MPH     926MB
+13.9N      98.4W
+Movement NNW at 21mph
 
 STATUS
-At 06:00 UTC ... 00:00 FDT ... Major Hurricane Wanda was located 390 miles east of Port Foy, Foy Province, and 
-has stopped intensifying due to an eyewall replacement cycle. This process is expected to be completed within a
-matter of hours, and the weakening trend is expected to be short lived before a resumption of intensification and
-a probable Category 5 peak in the next 48 hours.
+At 18:00 UTC ... 12:00 FDT ... Major Hurricane Wanda was located 380 miles east of Port Foy, Foy Province, and 
+is maintaining intensity whilst battling dry air intrusion. Wanda currently has peak wind speeds of 155mph, and a
+pressure of 926mb. Forward motion has increased to 21mph, keeping the storm's possibility of attaining Category 5 
+status alive as a more moist environment lies to the north. Wind shear remains near zero, and is not expected to
+increase for some time.
 
 WARNINGS
 No warnings are in effect for land areas, however the storm is now generating rough surf between Port Foy and
