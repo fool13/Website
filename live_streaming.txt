@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif
+CONTENT_URL: http://weather.unisys.com/hurricane/w_pacific/2015/GONI/track.gif
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS - GONI A CATEGORY 4 TYPHOON&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific&nbsp;
