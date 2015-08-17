@@ -2,7 +2,7 @@ PLAY_MUSIC: ON
 MUSIC_URL: https://www.youtube.com/watch?v=2sZemhFif5c&start=990
 ALERT_MODE: OFF
 BREAKING_NEWS: ON
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif
