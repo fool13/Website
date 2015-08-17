@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://199.9.2.143/tcdat/sectors/atcf_sector_file
+CONTENT_URL: http://activefiremaps.fs.fed.us/
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS - GONI A CATEGORY 4 TYPHOON&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Typhoon Goni has rapidly intensified into a category 4 system in the West Pacific&nbsp;
