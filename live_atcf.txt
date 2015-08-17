@@ -1,6 +1,6 @@
-<table>
+<table style="width:50%;">
 <tr>
-<td>
+<td style="text-align:left;">
 <strong>EX-ELEVEN</strong><br>
 Position: 22.6N, 122.1W<br>
 Wind: 30mph<br>
