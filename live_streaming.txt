@@ -2,7 +2,7 @@ ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/tracker/
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: Breaking News - Tropical Depression 11E in the East Pacific Ocean
