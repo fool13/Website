@@ -1,4 +1,3 @@
-<script>setBackground('slider_P1','http://www.force-13.com/img/social02.png');</script>
 <span class="heading">Tropics at a glance</span>
 <br><br><br>
 <table style="width:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
