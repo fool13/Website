@@ -1,6 +1,6 @@
 <div style="width:50%;height:300px;margin:0 auto;background:red;">
 
-<table style="width:100%;"><tr><td style="width:20%;">
+<table style="width:100%;"><tr><td style="width:50%;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rb-animated.gif" style="height:200px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:200px;">
 </td><td style="text-align:left;width:20%">
