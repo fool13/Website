@@ -1,11 +1,11 @@
 PLAY_MUSIC: ON
-MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
+MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s?D
 ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://weather.unisys.com/hurricane/w_pacific/2015/ATSANI/track.gif
+SHOW_CONTENT: ON
+CONTENT_URL: https://www.youtube.com/watch?v=sBJQK0G-7Nk
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 130mph at 03:00 UTC&nbsp;<br>&nbsp;Goni weakens&nbsp;
