@@ -1,4 +1,5 @@
-<table style="background:silver;width:40%;">
+<div style="width:50%;background:red;">
+<table style="width:100%;">
 <tr>
 <td style="text-align:left;width:20%">
 <strong>EX-ELEVEN ...</strong><br>
@@ -13,3 +14,5 @@ Pressure: 1005mb<br>
 </td>
 </tr>
 </table>
+
+</div>
