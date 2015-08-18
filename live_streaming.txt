@@ -8,12 +8,11 @@ SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=o2TuLPUeFgU
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 110mph at 15:00 UTC&nbsp;<br>&nbsp;Goni&apos;s air pressure indicated to be at 920mb&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 130mph at 03:00 UTC&nbsp;<br>&nbsp;Goni weakens&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
-Tropical Depression 11E and 96L still alive, the former likely to dissipate very soon
-Typhoon Atsani building gradually, could become a super typhoon in the next five days
-Typhoon Goni completes the set of twin typhoons in the Western Pacific
+Tropical Depression 11E becomes post tropical
+Typhoon Atsani continues to intensify, could become a super typhoon in the next 48 hours
+Invest 96L with a bright future in the Atlantic - NHC says 80% chance of cyclonegenesis in the next five days
 Goni poses a long range threat to Taiwan and China once again
-Tropical Depression 11-E should stay out to sea like most Eastern Pacific storms.
-Invest 96L could develop into a tropical cyclone in the next few days.
+Invest 93C forms in the Central Pacific, Hawaiian tropical storm threat on the cards
