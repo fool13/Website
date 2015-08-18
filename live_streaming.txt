@@ -6,7 +6,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/rgb-animated.gif
-LIVE_LOCATION: Tropical Storm Danny - RGB Enhancement
+LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend.&nbsp;
 
