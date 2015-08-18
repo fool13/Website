@@ -1,7 +1,6 @@
 <br>
 <span class="heading">Western Pacific - Water Vapor</span>
-<br><br><br>
-<table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/westpac/images/xxwvgmsbbm.jpg') no-repeat center center;background-size:700px;">
+<table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/westpac/images/xxwvgmsbbm.jpg') no-repeat center center;background-size:900px;">
 <tr><td>
 </td></tr>
 </table>
