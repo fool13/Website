@@ -24,11 +24,10 @@ Pressure: 944mb<br>
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
-<div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Typhoon ATSANI</div>
-<div style="font-size:15px;padding-top:10px;line-height:100%;">
+<span style="font-weight:bold;font-size:28px;display:inline-block;padding-bottom:6px;">
+Typhoon ATSANI</span><br>
 Position: 16.0N, 156.2E<br>
 Wind: 130mph<br>
 Pressure: 937mb
-<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
-</div>
+<span style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</span>
 </tr></td></table>
