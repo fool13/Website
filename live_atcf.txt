@@ -1,4 +1,4 @@
-<table style="width:100%;line-height:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
+<table style="width:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;line-height:100%;">
@@ -14,32 +14,32 @@ Pressure: 1005mb
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Typhoon GONI</div>
-<div style="font-size:14px;padding-top:10px;line-height:130%;">
+<div style="font-size:14px;padding-top:10px;line-height:100%;">
 Position: 18.2N, 136.1E<br>
 Wind: 120mph<br>
 Pressure: 944mb
-<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
 </div>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Typhoon ATSANI</div>
-<div style="font-size:14px;padding-top:10px;line-height:130%;">
+<div style="font-size:14px;padding-top:10px;line-height:100%;">
 Position: 16.0N, 156.2E<br>
 Wind: 130mph<br>
 Pressure: 937mb
-<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
 </div>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.force-13.com/img/no-floater.jpg" style="height:180px;">
 <img src="http://www.force-13.com/img/no-floater.jpg" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Invest 93C</div>
-<div style="font-size:14px;padding-top:10px;line-height:130%;">
+<div style="font-size:14px;padding-top:10px;line-height:100%;">
 Position: 7.5N, 143.2W<br>
 Wind: 25mph<br>
 Pressure: 1007mb
-<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
 </div>
 </td></tr></table>
