@@ -3,7 +3,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;width:30%;vertical-align:top;line-height:105%;">
-<a style="font-weight:bold;">Tropical Depression ELEVEN</a>
+<a style="font-weight:bold;">Tropical Depression ELEVEN</a><br>
 <a style="font-size:14px;">
 Position: 24.0N, 123.7W<br>
 Wind: 30mph<br>
