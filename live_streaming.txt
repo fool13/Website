@@ -5,9 +5,9 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/tropics_band_03.gif
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;Himawari-8 Visible Imagery&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Himawari-8 Full Disk AHI True Color&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;GONI and ATSANI in the West Pacific.&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
