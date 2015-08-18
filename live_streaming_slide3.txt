@@ -6,7 +6,7 @@
 </td><td style="text-align:left;width:50%;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis0.gif" style="height:400px;">
 </tr></td>
-<tr><td style="text-align:center;width:100%;vertical-align:top;" rowspan="2">
+<tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
 <span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/18/15</span><br>
 Position: 18.2N, 136.1E<br>
 Wind: 120mph<br>
