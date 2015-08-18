@@ -3,22 +3,22 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Tropical Depression ELEVEN-E</div>
-<div style="font-size:15px;padding-top:10px;line-height:100%;overflow:hidden;">
+<div style="font-size:15px;padding-top:10px;overflow:hidden;">
 Position: 24.0N, 123.7W<br>
 Wind: 30mph<br>
 Pressure: 1005mb
-<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
 </div>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Typhoon GONI</div>
-<div style="font-size:15px;padding-top:10px;line-height:100%;">
+<div style="font-size:15px;padding-top:10px;">
 Position: 18.2N, 136.1E<br>
 Wind: 120mph<br>
 Pressure: 944mb
-<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
 </div>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif" style="height:180px;">
@@ -29,7 +29,7 @@ Pressure: 944mb
 Position: 16.0N, 156.2E<br>
 Wind: 130mph<br>
 Pressure: 937mb
-<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
 </div>
 </tr></td></table>
 ###
@@ -42,7 +42,7 @@ Pressure: 937mb
 Position: 7.5N, 143.2W<br>
 Wind: 25mph<br>
 Pressure: 1007mb
-<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
 </div>
 </td></tr>
 <tr><td style="text-align:right;width:50px;vertical-align:top;">
@@ -50,11 +50,11 @@ Pressure: 1007mb
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/96L/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Invest 96L</div>
-<div style="font-size:15px;padding-top:10px;line-height:100%;">
+<div style="font-size:15px;padding-top:10px;">
 Position: 9.8N, 33.2W<br>
 Wind: 35mph<br>
 Pressure: 1011mb
-<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
 </div>
 </td></tr>
 </table>
