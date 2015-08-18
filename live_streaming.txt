@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://www.tropicaltidbits.com/storminfo/17W_tracks_latest.png
+SHOW_CONTENT: ON
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/tropics_band_03.gif
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend.&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Himawari-8 Visible Imagery&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;GONI and ATSANI in the West Pacific.&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Storm Danny forms in the Atlantic, expected to become a hurricane
