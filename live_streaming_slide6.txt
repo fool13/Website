@@ -2,6 +2,6 @@
 <span class="heading">Eastern Pacific - Water Vapor</span>
 <table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/eastpac/images/xxwvg9bbm.jpg') no-repeat center center;background-size:900px;">
 <tr><td>
-<div style="font-weight:bold;font-size:14px;position:relative;top:260px;right:150px;">93C</div>
+<div style="font-weight:bold;font-size:14px;position:relative;bottom:40px;right:150px;">93C</div>
 </td></tr>
 </table>
