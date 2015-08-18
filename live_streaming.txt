@@ -5,10 +5,10 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;Himawari-8 Full Disk AHI True Color&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;GONI and ATSANI in the West Pacific.&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;MTSAT RBTOP Floater&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;ATSANI in the West Pacific.&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Storm Danny forms in the Atlantic, expected to become a hurricane
