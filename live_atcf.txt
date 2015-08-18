@@ -34,7 +34,7 @@ Pressure: 937mb
 </tr></td></table>
 ###
 <table style="width:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Invest 93C</div>
@@ -46,7 +46,7 @@ Pressure: 1007mb
 </div>
 </td></tr>
 <tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/96L/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/96L/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/96L/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Invest 96L</div>
