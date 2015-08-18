@@ -1,4 +1,3 @@
-<div style="width:80%;height:300px;margin:0 auto;">
 <table style="width:100%;"><tr><td style="text-align:right;width:360px;display:inline-block;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
@@ -11,4 +10,3 @@ Pressure: 1005mb<br>
 <span style="font-size:11px;">As of 00:00UTC, 08/18/15</span>
 </div>
 </td></tr></table>
-</div>
