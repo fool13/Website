@@ -8,7 +8,7 @@ SHOW_CONTENT: OFF
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/bd-animated.gif
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend.&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Depression 11E becomes post tropical
