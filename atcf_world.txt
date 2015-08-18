@@ -1,5 +1,5 @@
 /// SIM ///
-08 SYSTEMS ACTIVE
+07 SYSTEMS ACTIVE
 Date             Name                kts    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 ---------------------------------------------------------------------------------------------------------
 20150818.2100    04D.CHANTAL         55     982       v      #4      24.2     151.5      70       SS
