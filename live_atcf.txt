@@ -7,7 +7,7 @@
 Position: 24.0N, 123.7W<br>
 Wind: 30mph<br>
 Pressure: 1005mb
-<div style="font-size:11px;padding-top:10px;">As of 00:00UTC, 08/18/15</div>
+<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
 </div>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif" style="height:180px;">
