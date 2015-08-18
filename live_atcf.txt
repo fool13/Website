@@ -3,12 +3,12 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;">
-<a style="font-weight:bold;">Tropical Depression ELEVEN</a><br>
-<a style="font-size:14px;">
+<a style="font-weight:bold;">Tropical Depression ELEVEN</a>
+<div style="font-size:14px;">
 Position: 24.0N, 123.7W<br>
 Wind: 30mph<br>
 Pressure: 1005mb<br>
-</a>
-<a style="font-size:11px;">As of 00:00UTC, 08/18/15</a>
+<span style="font-size:11px;">As of 00:00UTC, 08/18/15</span>
+</div>
 </td></tr></table>
 </div>
