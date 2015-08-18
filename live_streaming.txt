@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://moe.met.fsu.edu/cyclonephase/gfs/fcst/archive/15081812/3.html
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;GFS Cyclone Phases&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;GONI in the West Pacific.&nbsp;
+BREAKING_NEWS_HEADING: &nbsp; &nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp; &nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Storm Danny forms in the Atlantic, expected to become a hurricane
