@@ -1,4 +1,5 @@
 <div style="width:60%;height:300px;margin:0 auto;">
+<span class="heading">Tropics At A Glance</span>
 <table style="width:100%;"><tr><td style="width:50%;text-align:right;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
