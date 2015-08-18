@@ -1,6 +1,6 @@
 PLAY_MUSIC: OFF
-MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s?D
-ALERT_MODE: OFF
+MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
+ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
