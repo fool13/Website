@@ -34,8 +34,8 @@ Pressure: 937mb
 </tr></td></table>
 ###
 <table style="width:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.force-13.com/img/no-floater.jpg" style="height:180px;">
-<img src="http://www.force-13.com/img/no-floater.jpg" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Invest 93C</div>
 <div style="font-size:14px;padding-top:10px;line-height:100%;">
@@ -44,4 +44,17 @@ Wind: 25mph<br>
 Pressure: 1007mb
 <div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
 </div>
-</td></tr></table>
+</td></tr>
+<tr><td style="text-align:right;width:50px;vertical-align:top;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/96L/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/96L/imagery/rbtop-animated.gif" style="height:180px;">
+</td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
+<div style="font-weight:bold;line-height:100%;padding:0;margin:0;">Invest 96L</div>
+<div style="font-size:14px;padding-top:10px;line-height:100%;">
+Position: 9.8N, 33.2W<br>
+Wind: 35mph<br>
+Pressure: 1011mb
+<div style="font-size:11px;padding-top:10px;line-height:100%;">As of 00:00UTC, 08/18/15</div>
+</div>
+</td></tr>
+</table>
