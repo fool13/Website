@@ -4,7 +4,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:200px;">
 </td><td style="text-align:left;width:20%;vertical-align:top;">
 <a style="font-weight:bold;padding-bottom:10px;">Remnants of Eleven-E</a>
-<div style="font-size:15px;padding:0;margin:0;line-height:100%;">
+<div style="font-size:15px;padding:0;margin:0;">
 Position: 22.6N, 122.1W
 <br>
 Wind: 30mph
