@@ -5,10 +5,10 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;MTSAT RBTOP Floater&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;ATSANI in the West Pacific.&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;GONI in the West Pacific.&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Storm Danny forms in the Atlantic, expected to become a hurricane
