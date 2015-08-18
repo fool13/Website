@@ -1,4 +1,4 @@
-<table width="50%;">
+<table width="200px;background:silver;">
 <tr>
 <td style="text-align:left;width:10px;">
 <strong>EX-ELEVEN</strong><br>
