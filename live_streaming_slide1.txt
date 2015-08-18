@@ -6,7 +6,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Depression ELEVEN-E</span><br>
+Tropical Depression 11-E</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/18/15</span><br>
 Position: 24.0N, 123.7W<br>
 Wind: 30mph<br>
