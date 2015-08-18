@@ -5,8 +5,11 @@
 </td><td style="text-align:left;width:20%">
 <strong>Remnants of Eleven-E</strong><br><div style="font-size:15px;">
 Position: 22.6N, 122.1W
+
 Wind: 30mph
+
 Pressure: 1005mb
+
 <small>18:00UTC, 08/17/15</small>
 </div></td></tr></table>
 </div>
