@@ -1,8 +1,8 @@
 <div style="width:60%;height:300px;margin:0 auto;">
-<table style="width:100%;"><tr><td style="width:370px;text-align:left;">
+<table style="width:670px;"><tr><td style="width:370px;text-align:left;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/11E/imagery/rbtop-animated.gif" style="height:180px;">
-</td><td style="text-align:left;width:30%;vertical-align:top;line-height:105%;">
+</td><td style="text-align:left;width:300px;vertical-align:top;line-height:105%;">
 <a style="font-weight:bold;">Tropical Depression ELEVEN</a><br>
 <a style="font-size:14px;">
 Position: 24.0N, 123.7W<br>
