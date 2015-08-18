@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s?D
-ALERT_MODE: ON
+ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=sBJQK0G-7Nk
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 130mph at 03:00 UTC. Goni weakens&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;West Pacific Typhoons&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Atsani continues to intensify, up to 130mph at 03:00 UTC, Goni weakens&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Depression 11E becomes post tropical
