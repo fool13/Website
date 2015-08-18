@@ -1,4 +1,4 @@
-PLAY_MUSIC: OFF
+PLAY_MUSIC: ON
 MUSIC_URL: https://www.youtube.com/watch?v=2sZemhFif5c
 ALERT_MODE: ON
 BREAKING_NEWS: ON
