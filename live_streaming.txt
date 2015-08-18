@@ -4,7 +4,7 @@ ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://weather.unisys.com/hurricane/w_pacific/2015/ATSANI/track.gif
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
