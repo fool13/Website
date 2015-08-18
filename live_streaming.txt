@@ -1,10 +1,10 @@
-PLAY_MUSIC: OFF
-MUSIC_URL: https://www.youtube.com/watch?v=2sZemhFif5c
+PLAY_MUSIC: ON
+MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=i3D1RLm-240
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
