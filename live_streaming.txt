@@ -5,8 +5,8 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
-LIVE_LOCATION: Himawari-8 Full Disk AHI True Color
+CONTENT_URL: http://www.ssd.noaa.gov/goes/east/gmex/rgb-animated.gif
+LIVE_LOCATION: Gulf of Mexico - RGB Enhanced
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend.&nbsp;
 
