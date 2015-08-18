@@ -5,8 +5,8 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.tropicaltidbits.com/storminfo/16W_tracks_latest.png
-LIVE_LOCATION: Typhoon GONI Model Guidance
+CONTENT_URL: http://www.tropicaltidbits.com/storminfo/17W_tracks_latest.png
+LIVE_LOCATION: Typhoon ATSANI Model Guidance
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend.&nbsp;
 
