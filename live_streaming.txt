@@ -6,7 +6,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.ssd.noaa.gov/goes/west/tpac/rgb-animated.gif
-LIVE_LOCATION: East Pacific - Water Vapor
+LIVE_LOCATION: East Pacific - RGB Enhanced
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend.&nbsp;
 
