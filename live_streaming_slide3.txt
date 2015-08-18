@@ -8,8 +8,6 @@
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
 <span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/18/15</span><br>
-Position: 18.2N, 136.1E<br>
-Wind: 120mph<br>
-Pressure: 944mb<br>
+<strong>120mph</strong> &nbsp;&nbsp;&nbsp; 944mb
 </td></tr>
 </table>
