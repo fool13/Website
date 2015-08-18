@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/wv-animated.gif
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/bd-animated.gif
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph. Goni continues on a weakening trend&nbsp;
