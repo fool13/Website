@@ -7,7 +7,7 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=sBJQK0G-7Nk
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;Coverage on the West Pacific Typhoons&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Force Thirteen Providing Coverage on the West Pacific Typhoons&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;As of 03:00 UTC, Atsani intensified to 130mph while Goni weakened&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
