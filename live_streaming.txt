@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/avn-animated.gif?update1
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/rbtop-animated.gif?update1
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
