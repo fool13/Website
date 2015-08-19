@@ -8,28 +8,28 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm DANNY</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/18/15</span><br>
-Position: 10.8N, 37.0W<br>
-Wind: 40mph<br>
-Pressure: 1008mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 08/19/15</span><br>
+Position: 11.1N, 40.7W<br>
+Wind: 50mph<br>
+Pressure: 1000mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/18/15</span><br>
-Position: 18.7N, 131.2E<br>
-Wind: 115mph<br>
-Pressure: 948mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/19/15</span><br>
+Position: 18.9N, 126.2E<br>
+Wind: 130mph<br>
+Pressure: 937mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon ATSANI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/18/15</span><br>
-Position: 17.9N, 153.9E<br>
-Wind: 140mph<br>
-Pressure: 933mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 08/19/15</span><br>
+Position: 19.6N, 151.3E<br>
+Wind: 160mph<br>
+Pressure: 918mb<br>
 </tr></td></table>
