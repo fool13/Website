@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Typhoon Atsani loses Category 5 status&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Down to 155mph at 18:00 UTC&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Goni and Atsani both intensify once more
