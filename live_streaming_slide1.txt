@@ -30,6 +30,6 @@ Pressure: 937mb<br>
 Typhoon ATSANI</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/19/15</span><br>
 Position: 19.6N, 151.3E<br>
-Wind: 150mph<br>
+Wind: 155mph<br>
 Pressure: 922mb<br>
 </tr></td></table>
