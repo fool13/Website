@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
+SHOW_CONTENT: ON
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni intensifies again&nbsp;
