@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.jma.go.jp/en/typh/
+CONTENT_URL: http://www.nhc.noaa.gov/storm_graphics/AT04/refresh/AL0415W5_NL+gif/203343W5_NL_sm.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
