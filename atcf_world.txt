@@ -1,6 +1,6 @@
 /// SIM /// ## IMPORTANT: the mph metric system has replaced the knots metric system. ##
 07 SYSTEMS ACTIVE
-Date             Name                kts    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
+Date             Name                mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 ---------------------------------------------------------------------------------------------------------
 20150819.0300    04D.CHANTAL         70     978       v      #4A     23.7     152.0     100       85
 20150819.0300    03D.BARRY           160    920       v      #12     22.5     129.5     100      100
