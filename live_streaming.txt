@@ -8,7 +8,7 @@ SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni intensifies again&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Goni now a Category 4 typhoon again&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Goni now a Category 4 typhoon with winds of 130mph&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Goni and Atsani both intensify once more
