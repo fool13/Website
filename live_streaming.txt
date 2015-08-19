@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;00Z for INVEST 93C&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;<span style='text-decoration:line-through;'>What</span> Where On Earth Is This?&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni intensifies again&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Goni now a Category 4 typhoon again&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Twin Typhoons Goni and Atsani remain the headline in the tropics
