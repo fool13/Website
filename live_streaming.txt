@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/mtsat/twpac/wv-animated.gif
+CONTENT_URL: http://www.ssd.noaa.gov/mtsat/twpac/rb-animated.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Talking Tropics&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;LIVE Updates/Discussion on Typhoon Ineng, Atsani, TS Danny (20/08/15)&nbsp;
