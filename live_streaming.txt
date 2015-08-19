@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://force-13.com/streaming/track.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Talking Tropics&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;LIVE Updates/Discussion on Typhoon Ineng, Atsani, TS Danny (20/08/15)&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Goni and Atsani remain the headline in the Western Pacific
