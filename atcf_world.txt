@@ -1,4 +1,4 @@
-/// SIM ///
+/// SIM /// ## IMPORTANT: the mph metric system has replaced the knots metric system. ##
 07 SYSTEMS ACTIVE
 Date             Name                kts    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 ---------------------------------------------------------------------------------------------------------
