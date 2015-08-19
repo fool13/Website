@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://force-13.com/streaming/track.jpg
+SHOW_CONTENT: ON
+CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/westpac/winds/wgmssht.GIF
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
