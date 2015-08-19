@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
+SHOW_CONTENT: ON
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_20150819231000.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Talking Tropics&nbsp;
