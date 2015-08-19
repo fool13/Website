@@ -3,8 +3,8 @@
 <br><br>
 <table style="width:100%;">
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/vis-animated.gif?update1" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/rbtop-animated.gif?update1" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/vis-animated.gif?update2" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/rbtop-animated.gif?update2" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm DANNY</span><br>
@@ -13,8 +13,8 @@ Position: 11.4N, 41.5W<br>
 Wind: 50mph<br>
 Pressure: 1000mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif?update1" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif?update1" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif?update2" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif?update2" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
@@ -23,8 +23,8 @@ Position: 18.9N, 126.2E<br>
 Wind: 130mph<br>
 Pressure: 937mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif?update1" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif?update1" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif?update2" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif?update2" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon ATSANI</span><br>
