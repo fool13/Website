@@ -4,9 +4,9 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
-LIVE_LOCATION: Force Thirteen Streaming
+LIVE_LOCATION:
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni intensifies again&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Goni now a Category 4 typhoon again&nbsp;
 
