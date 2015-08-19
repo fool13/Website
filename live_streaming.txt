@@ -4,9 +4,9 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=sBJQK0G-7Nk
-LIVE_LOCATION: Goni's passage through Mariana Islands
+LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
 
