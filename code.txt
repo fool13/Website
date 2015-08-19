@@ -1,0 +1,58 @@
+//NORTH
+            if(stormA09 == "SD"){
+                document.getElementById('stormA').style.backgroundImage = "url('http://members.iinet.net.au/~larrymudd/force13/icons2/SD.gif?"+update_id+"')"; //SUB-TROPICAL DEPRESSION
+                document.getElementById('stormA2').style.backgroundImage = "url('http://members.iinet.net.au/~larrymudd/force13/icons2/SD.gif?"+update_id+"')"; //SUB-TROPICAL DEPRESSION
+                sclass = "SD " + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA09 == "SS"){
+                document.getElementById('stormA').style.backgroundImage = "url('http://members.iinet.net.au/~larrymudd/force13/icons2/NHem_SS.gif?"+update_id+"')"; //SUB-TROPICAL STORM
+                document.getElementById('stormA2').style.backgroundImage = "url('http://members.iinet.net.au/~larrymudd/force13/icons2/NHem_SS.gif?"+update_id+"')"; //SUB-TROPICAL STORM
+                sclass = "SS " + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA09 == "EX"){
+                document.getElementById('stormA').style.backgroundImage = "url('img/Ex.gif?"+update_id+"')"; //EXTRA-TROPICAL
+                document.getElementById('stormA2').style.backgroundImage = "url('img/Ex.gif?"+update_id+"')"; //EXTRA-TROPICAL
+                sclass = "EX-" + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 30 && stormA01.indexOf("INVEST") > -1){
+                document.getElementById('stormA').style.backgroundImage = "url('img/IN.gif?"+update_id+"')"; //INVEST
+                document.getElementById('stormA2').style.backgroundImage = "url('img/IN.gif?"+update_id+"')"; //INVEST
+                sclass = "INVEST " + stormA01.split(".")[0];
+                sclass += "<br><span style='font-size:12px;'>"+stormA08+"% Chance</span>";
+                pastManager(stormA01);
+            }else if(stormA02 <= 30){
+                document.getElementById('stormA').style.backgroundImage = "url('img/TD.gif?"+update_id+"')"; //TROPICAL DEPRESSION
+                document.getElementById('stormA2').style.backgroundImage = "url('img/TD.gif?"+update_id+"')"; //TROPICAL DEPRESSION
+                sclass = "TD " + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 60){
+                document.getElementById('stormA').style.backgroundImage = "url('img/NHem_TS.gif?"+update_id+"')"; //TROPICAL STORM
+                document.getElementById('stormA2').style.backgroundImage = "url('img/NHem_TS.gif?"+update_id+"')"; //TROPICAL STORM
+                sclass = "TS " + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 80){
+                document.getElementById('stormA').style.backgroundImage = "url('img/NHem_C1.gif?"+update_id+"')"; //CATEGORY 1
+                document.getElementById('stormA2').style.backgroundImage = "url('img/NHem_C1.gif?"+update_id+"')"; //CATEGORY 1
+                sclass = "" + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 95){
+                document.getElementById('stormA').style.backgroundImage = "url('img/NHem_C2.gif?"+update_id+"')"; //CATEGORY 2
+                document.getElementById('stormA2').style.backgroundImage = "url('img/NHem_C2.gif?"+update_id+"')"; //CATEGORY 2
+                sclass = "" + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 105){
+                document.getElementById('stormA').style.backgroundImage = "url('img/NHem_C3.gif?"+update_id+"')"; //CATEGORY 3
+                document.getElementById('stormA2').style.backgroundImage = "url('img/NHem_C3.gif?"+update_id+"')"; //CATEGORY 3
+                sclass = "" + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 130){
+                document.getElementById('stormA').style.backgroundImage = "url('img/NHem_C4.gif?"+update_id+"')"; //CATEGORY 4
+                document.getElementById('stormA2').style.backgroundImage = "url('img/NHem_C4.gif?"+update_id+"')"; //CATEGORY 4
+                sclass = "" + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }else if(stormA02 <= 500){
+                document.getElementById('stormA').style.backgroundImage = "url('img/NHem_C5.gif?"+update_id+"')"; //CATEGORY 5
+                document.getElementById('stormA5').style.backgroundImage = "url('img/NHem_C5.gif?"+update_id+"')"; //CATEGORY 5
+                sclass = "" + stormA01.split(".")[1];
+                pastManager(stormA01);
+            }
