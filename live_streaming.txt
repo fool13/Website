@@ -7,7 +7,7 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://force-13.com/streaming/img3.jpg
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;Guess The Storm. Hint: In the 70&apos;s&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Guess The Storm. Hint- In the 70&apos;s&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;<span style='text-decoration:line-through;'>What</span> Where On Earth Is This?&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
