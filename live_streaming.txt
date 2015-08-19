@@ -11,8 +11,8 @@ BREAKING_NEWS_HEADING: &nbsp;We're back at 23:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;The stream will remain active and we will answer your questions every half hour&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Goni and Atsani both intensify once more
-Super Typhoon Atsani a Category 5 storm in the open Pacific ocean
+Goni and Atsani remain the headline in the Western Pacific
+Super Typhoon Atsani loses Category 5 status, expected to regain it later
 Tropical Storm Danny expected to become a hurricane late this week
 Signal #2 Warnings in effect for the northernmost part of the Philippines with Goni on the horizon
 Invest 93C with a 60% chance of development, Hawaiian hurricane threat possible this weekend
