@@ -1,13 +1,13 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
-ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+ALERT_MODE: ON
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://force-13.com/streaming/img3.jpg
+SHOW_CONTENT: ON
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
 LIVE_LOCATION: Force Thirteen Streaming
-BREAKING_NEWS_HEADING: &nbsp;Guess The Storm. Hint- In the 70&apos;s. Atlantic Basin.&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;00Z for INVEST 93C&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;<span style='text-decoration:line-through;'>What</span> Where On Earth Is This?&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
