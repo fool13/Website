@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://moe.met.fsu.edu/cyclonephase/gfs/fcst/archive/15081812/3.html
+SHOW_CONTENT: ON
+CONTENT_URL: http://force-13.com/streaming/img3.jpg
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp; &nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp; &nbsp;
