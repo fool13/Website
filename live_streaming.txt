@@ -11,10 +11,11 @@ BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni intensifies again&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Goni now a Category 4 typhoon again&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Twin Typhoons Goni and Atsani remain the headline in the tropics
-Tropical Storm Danny forms in the Atlantic, expected to become a hurricane
-Typhoon Atsani remains strong, could become a super typhoon in the next 48 hours
-Danny expected to become a Category 2 hurricane on approach to the Lesser Antilles
-Signal #1 Warnings in effect for the northernmost part of the Philippines with Goni on the horizon
-Invest 93C forms in the Central Pacific, Hawaiian hurricane threat possible this weekend
+Goni and Atsani both intensify once more
+Super Typhoon Atsani a Category 5 storm in the open Pacific ocean
+Tropical Storm Danny expected to become a hurricane late this week
+Signal #2 Warnings in effect for the northernmost part of the Philippines with Goni on the horizon
+Invest 93C with a 60% chance of development, Hawaiian hurricane threat possible this weekend
+www.force-13.com
+www.facebook.com/ForceThirteen       @ForceThirteen on Twitter
 </marquee>
