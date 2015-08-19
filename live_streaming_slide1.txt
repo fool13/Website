@@ -8,8 +8,8 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm DANNY</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 08/19/15</span><br>
-Position: 11.1N, 40.7W<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/19/15</span><br>
+Position: 11.4N, 41.5W<br>
 Wind: 50mph<br>
 Pressure: 1000mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
