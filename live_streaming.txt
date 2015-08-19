@@ -8,7 +8,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://force-13.com/streaming/img3.jpg
 LIVE_LOCATION: Force Thirteen Streaming
 BREAKING_NEWS_HEADING: &nbsp;Guess The Storm&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;<span style='text-decoration:line-through;'>What</span>&bsp;Where On Earth Is This?&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;<span style='text-decoration:line-through;'>What</span> Where On Earth Is This?&nbsp;
 
 Twin Typhoons Goni and Atsani remain the headline in the tropics
 Tropical Storm Danny forms in the Atlantic, expected to become a hurricane
