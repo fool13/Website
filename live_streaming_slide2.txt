@@ -8,7 +8,7 @@
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Invest 93C</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 08/19/15</span><br>
-Position: 8.8N, 147.9W<br>
+Position: 8.4N, 145.6W<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
