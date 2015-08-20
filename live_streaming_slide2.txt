@@ -17,7 +17,7 @@ Pressure: 1005mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Invest 94C</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/20/15</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
 Position: 14.0N, 178.5W<br>
 Wind: 25mph<br>
 Pressure: 1006mb<br>
@@ -26,8 +26,8 @@ Pressure: 1006mb<br>
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/97L/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Invest 94C</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/20/15</span><br>
+Invest 97L</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
 Position: 29.7N, 67.4W<br>
 Wind: 25mph<br>
 Pressure: 1013mb<br>
