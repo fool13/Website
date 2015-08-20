@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/wv-animated.gif?sd
+SHOW_CONTENT: ON
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/himawari-8_band_03_sector_04.gif?3
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon GONI&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Located at 18.9N, 125.3E with winds of 130mph and central pressure of 937mb&nbsp;
