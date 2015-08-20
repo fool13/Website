@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://force-13.com/streaming/i3.jpg
+CONTENT_URL: http://www.ssd.noaa.gov/goes/west/cpac/h5-loop-rgb.html
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon ATSANI&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Located at 21.0N, 149.7E with winds of 155mph and central pressure of 922mb&nbsp;
