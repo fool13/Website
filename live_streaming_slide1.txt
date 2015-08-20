@@ -7,29 +7,29 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/rbtop-animated.gif?update3" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Storm DANNY</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/20/15</span><br>
-Position: 11.9N, 42.3W<br>
-Wind: 50mph<br>
-Pressure: 1000mb<br>
+Hurricane DANNY</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/20/15</span><br>
+Position: 13.0N, 45.7W<br>
+Wind: 80mph<br>
+Pressure: 990mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif?update3" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif?update3" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/19/15</span><br>
-Position: 18.9N, 125.3E<br>
-Wind: 130mph<br>
-Pressure: 937mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
+Position: 19.2N, 123.3E<br>
+Wind: 120mph<br>
+Pressure: 944mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif?update3" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif?update3" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon ATSANI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/20/15</span><br>
-Position: 21.0N, 149.7E<br>
-Wind: 155mph<br>
-Pressure: 922mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
+Position: 23.3N, 147.0E<br>
+Wind: 130mph<br>
+Pressure: 937mb<br>
 </tr></td></table>
