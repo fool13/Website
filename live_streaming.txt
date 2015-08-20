@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://www.nrlmry.navy.mil/atcf_web/image_archives/2015/wp172015.15081912.gif
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.ssd.noaa.gov/mtsat/twpac/wv-animated.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon ATSANI&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Located at 21.0N, 149.7E with winds of 155mph and central pressure of 922mb&nbsp;
