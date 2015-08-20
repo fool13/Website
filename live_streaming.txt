@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/wv-animated.gif?sd
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon ATSANI&nbsp;
