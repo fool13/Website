@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/wv-animated.gif?sd
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon ATSANI&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Located at 21.0N, 149.7E with winds of 155mph and central pressure of 922mb&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon GONI&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Located at 18.9N, 125.3E with winds of 130mph and central pressure of 937mb&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Goni and Atsani remain the headline in the Western Pacific
