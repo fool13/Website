@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/himawari-8_band_03_sector_04.gif?3
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon GONI&nbsp;
