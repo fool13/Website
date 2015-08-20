@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.nrlmry.navy.mil/atcf_web/image_archives/2015/wp172015.15081912.gif
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Talking Tropics&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;LIVE Updates/Discussion on Typhoon Ineng, Atsani, TS Danny (20/08/15)&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;00Z Update on Typhoon ATSANI&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Located at 21.0N, 149.7E with winds of 155mph and central pressure of 922mb&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Goni and Atsani remain the headline in the Western Pacific
