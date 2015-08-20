@@ -8,8 +8,8 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm DANNY</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/19/15</span><br>
-Position: 11.4N, 41.5W<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/20/15</span><br>
+Position: 11.9N, 42.3W<br>
 Wind: 50mph<br>
 Pressure: 1000mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
@@ -19,7 +19,7 @@ Pressure: 1000mb<br>
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/19/15</span><br>
-Position: 18.9N, 126.2E<br>
+Position: 18.9N, 125.3E<br>
 Wind: 130mph<br>
 Pressure: 937mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
