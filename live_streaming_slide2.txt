@@ -2,33 +2,33 @@
 <span class="heading">Tropics at a glance</span>
 <br><br>
 <table style="width:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/vis-animated.gif?update3" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/93C/imagery/rbtop-animated.gif?update3" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03C/imagery/vis-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03C/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Depression 03C</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
-Position: 10.8N, 149.5W<br>
-Wind: 35mph<br>
-Pressure: 1005mb<br>
+Tropical Storm Kilo</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/21/15</span><br>
+Position: 13.0N, 153.3W<br>
+Wind: 40mph<br>
+Pressure: 1004mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/94C/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/94C/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04C/imagery/vis-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04C/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Invest 94C</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
-Position: 14.0N, 178.5W<br>
-Wind: 25mph<br>
-Pressure: 1006mb<br>
+Tropical Storm Loke</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/21/15</span><br>
+Position: 16.4N, 177.2W<br>
+Wind: 45mph<br>
+Pressure: 1001mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/97L/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/97L/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95E/imagery/vis-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Invest 97L</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/20/15</span><br>
-Position: 29.7N, 67.4W<br>
+Invest 95E</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/21/15</span><br>
+Position: 12.9N, 123.4W<br>
 Wind: 25mph<br>
-Pressure: 1013mb<br>
+Pressure: 1009mb<br>
 </tr></td></table>
