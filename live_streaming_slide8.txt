@@ -1,8 +1,9 @@
 <br>
-<span class="heading">Eastern Pacific - Water Vapor</span>
-<table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/eastpac/images/xxwvg9bbm.jpg?update3') no-repeat center center;background-size:900px;">
+<span class="heading">Western Pacific - Water Vapor</span>
+<table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/westpac/images/xxwvgmsbbm.jpg?update3') no-repeat center center;background-size:900px;">
 <tr><td>
-<div style="font-weight:bold;font-size:14px;position:relative;top:180px;right:420px;">LOKE</div>
-<div style="font-weight:bold;font-size:14px;position:relative;top:90px;right:180px;">KILO</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:225px;right:120px;">GONI</div>
+<div style="font-weight:bold;font-size:14px;position:relative;bottom:20px;left:100px;">ATSANI</div>
+<div style="font-weight:bold;font-size:14px;position:relative;bottom:40px;left:420px;">94C</div>
 </td></tr>
 </table>
