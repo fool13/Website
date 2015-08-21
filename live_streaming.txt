@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://www.bom.gov.au/
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.cwb.gov.tw/V7e/prevent/warning/w40.htm?
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Goni, Atsani, Danny, and more&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Philippines being hit with typhoon force winds&nbsp;
