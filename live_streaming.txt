@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/nwatl/h5-loop-rgb.html
+CONTENT_URL: http://www.bom.gov.au/products/IDR703.loop.shtml
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Goni, Atsani, Danny, and more&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Philippines being hit with typhoon force winds&nbsp;
