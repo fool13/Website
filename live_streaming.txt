@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://force-13.com/streaming/img4.jpg
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.tropicaltidbits.com/storminfo/04L_intensity_latest.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Guess The Storm - TYHOON RYAN&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;HINT- Not of this time period. English name. 1990's. September.&nbsp;
