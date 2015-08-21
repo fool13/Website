@@ -7,15 +7,15 @@ SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.tropicaltidbits.com/storminfo/04L_intensity_latest.png
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Thanks for Joining Us&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni stalls near Philippines&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;5 reported killed, two missing&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) batters the northern tip of Luzon
-Typhoon Atsani on a weakening trend
-Hurricane Danny progresses across the Central Atlantic
+Typhoon Atsani remains on a weakening trend
+Major Hurricane Danny a Category 3 storm
 Signal #3 Warnings in effect for the northernmost part of the Philippines
-TD 03C forms, Hawaiian hurricane threat possible this weekend
+Tropical Storm Kilo a threat to Hawaii next week
 www.force-13.com
 www.facebook.com/ForceThirteen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ForceThirteen on Twitter
 </marquee>
