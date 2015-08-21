@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.ssd.noaa.gov/goes/east/nwatl/h5-loop-rgb.html
 LIVE_LOCATION: F13 HQ - GOES-East RGB Enhancement of Northwest Atlantic
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni stalls near Philippines&nbsp;
