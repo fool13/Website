@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.nhc.noaa.gov/xgtwo/two_pac_5d0.png
+CONTENT_URL: http://www.prh.noaa.gov/hnl/graphics/gtwo_gsat_lg.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Goni, Atsani, Danny, and more&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Philippines being hit with typhoon force winds&nbsp;
