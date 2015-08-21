@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.cwb.gov.tw/V7e/prevent/warning/w40.htm?
+CONTENT_URL: http://force-13.com/streaming/track2.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Goni, Atsani, Danny, and more&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Philippines being hit with typhoon force winds&nbsp;
