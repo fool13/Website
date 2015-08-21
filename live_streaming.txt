@@ -7,7 +7,7 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://force-13.com/streaming/img4.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Guess The Storm&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Guess The Storm - TYHOON RYAN&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;HINT- Not of this time period. English name. 1990's. September.&nbsp;
 
 <marquee behavior="scroll" direction="left">
