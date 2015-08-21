@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://iucn-isg.org/wp-content/uploads/2013/02/Map1-Distribution-BIOTOPE.jpg
+CONTENT_URL: http://images.summitpost.org/original/439870.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni stalls near Philippines&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;5 reported killed, two missing&nbsp;
