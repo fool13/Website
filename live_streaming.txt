@@ -5,8 +5,8 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/floater_03_band_03.gif
-LIVE_LOCATION: F13 HQ - Himawari-8 Visible of Tropical Storm Kilo
+CONTENT_URL: http://www.noaanews.noaa.gov/stories2006/images/nwhi-overview-map.jpg
+LIVE_LOCATION: F13 HQ - Northwestern Hawaiian Islands Map
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni stalls near Philippines&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;5 reported killed, two missing&nbsp;
 
