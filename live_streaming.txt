@@ -2,7 +2,7 @@ PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
 BREAKING_NEWS: ON
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.tropicaltidbits.com/storminfo/04L_intensity_latest.png
