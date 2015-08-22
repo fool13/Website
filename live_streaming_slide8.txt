@@ -4,6 +4,6 @@
 <tr><td>
 <div style="font-weight:bold;font-size:14px;position:relative;top:175px;right:120px;">GONI</div>
 <div style="font-weight:bold;font-size:14px;position:relative;bottom:20px;left:100px;">ATSANI</div>
-<div style="font-weight:bold;font-size:14px;position:relative;bottom:40px;left:420px;">LOKE</div>
+<div style="font-weight:bold;font-size:14px;position:relative;bottom:20px;left:420px;">LOKE</div>
 </td></tr>
 </table>
