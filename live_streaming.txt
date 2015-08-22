@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
-ALERT_MODE: OFF
+ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.ssd.noaa.gov/goes/west/cpac/h5-loop-rb.html
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni stalls near Philippines&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;5 reported killed, two missing&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;MAKATI CITY, PHILIPPINES&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Classes are now suspended in both private and state colleges. #walangpasok | @MakatiInfo&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) batters the northern tip of Luzon
