@@ -4,6 +4,6 @@
 <tr><td>
 <div style="font-weight:bold;font-size:14px;position:relative;top:250px;right:430px;">LOKE</div>
 <div style="font-weight:bold;font-size:14px;position:relative;top:140px;right:260px;">KILO</div>
-<div style="font-weight:bold;font-size:14px;position:relative;top:80px;left:80px;">95E</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:60px;left:120px;">95E</div>
 </td></tr>
 </table>
