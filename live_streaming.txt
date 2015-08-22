@@ -1,20 +1,21 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
-SHOW_LIVE: OFF
-SHOW_UTC_TIME: OFF
+BREAKING_NEWS: ON
+SHOW_LIVE: ON
+SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: https://pbs.twimg.com/media/CM-OdxSWsAA6VZy.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Thanks For Joining Us&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Goni (Ineng) making its closest approach to Taiwan&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Reintensification expected in the East China Sea&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Typhoon Ineng (Goni) batters the northern tip of Luzon
-Typhoon Atsani remains on a weakening trend
-Major Hurricane Danny a Category 3 storm
-Signal #3 Warnings in effect for the northernmost part of the Philippines
+Typhoon Ineng (Goni) delivering heavy rainfall over Taiwan
+Typhoon Atsani continues to curve away from Japan
+Hurricane Danny weakening, Tropical Storm Watches in effect
+Signal #2 Warnings in effect for the Batanes Islands
+No typhoon warnings in effect for Taiwan despite its close proximity
 Tropical Storm Kilo a threat to Hawaii next week
 www.force-13.com
 www.facebook.com/ForceThirteen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ForceThirteen on Twitter
