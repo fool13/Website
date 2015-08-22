@@ -20,7 +20,7 @@ Tropical Depression Loke</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/22/15</span><br>
 Position: 17.8N, 178.4W<br>
 Wind: 35mph<br>
-Pressure: 1001mb<br>
+Pressure: 1005mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95E/imagery/rbtop-animated.gif" style="height:180px;">
