@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://pbs.twimg.com/media/CM-JTxGWwAAFa-d.jpg
+CONTENT_URL: https://pbs.twimg.com/media/CM-OdxSWsAA6VZy.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;MAKATI CITY, PHILIPPINES&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Classes are now suspended in both private and state colleges. #walangpasok | @MakatiInfo&nbsp;
