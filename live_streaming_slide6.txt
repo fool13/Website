@@ -1,14 +1,14 @@
 <br>
-<span class="heading" style="font-size:55px;">Tropical Storm Kilo</span>
+<span class="heading" style="font-size:55px;">Tropical Depression Kilo</span>
 <br><br>
 <table style="width:100%;">
 <tr><td style="text-align:right;width:50%;vertical-align:top;">
-<img src="http://www.nrlmry.navy.mil/atcf_web/image_archives/2015/cp032015.15082012.gif" style="height:400px;">
+<img src="http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/cp0315.gif" style="height:400px;">
 </td><td style="text-align:left;width:50%;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03C/imagery/vis0.gif?update3" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/21/15</span><br>
-<strong>40mph</strong> &nbsp;&nbsp;&nbsp; 1004mb
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/22/15</span><br>
+<strong>30mph</strong> &nbsp;&nbsp;&nbsp; 1005mb
 </td></tr>
 </table>
