@@ -4,11 +4,11 @@ ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: https://pbs.twimg.com/media/CM-OdxSWsAA6VZy.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;MAKATI CITY, PHILIPPINES&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Classes are now suspended in both private and state colleges. #walangpasok | @MakatiInfo&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;00Z FOR HURRICANE DANNY&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;located at 14.6N, 49.3W winds of 110mph and pressure of 977mb&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) batters the northern tip of Luzon
