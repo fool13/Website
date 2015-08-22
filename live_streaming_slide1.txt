@@ -8,28 +8,28 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Hurricane DANNY</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/22/15</span><br>
-Position: 14.6N, 49.3W <br>
-Wind: 110mph<br>
-Pressure: 977mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/22/15</span><br>
+Position: 15.8N, 53.3W <br>
+Wind: 75mph<br>
+Pressure: 991mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/21/15</span><br>
-Position: 19.8N, 122.5E<br>
-Wind: 105mph<br>
-Pressure: 956mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/22/15</span><br>
+Position: 22.3N, 123.2E<br>
+Wind: 90mph<br>
+Pressure: 963mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon ATSANI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/21/15</span><br>
-Position: 26.4N, 145.3E<br>
-Wind: 105mph<br>
-Pressure: 956mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/22/15</span><br>
+Position: 28.9N, 145.2E<br>
+Wind: 90mph<br>
+Pressure: 963mb<br>
 </tr></td></table>
