@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/west/cpac/h5-loop-wv.html
+CONTENT_URL: http://www.ssd.noaa.gov/goes/west/cpac/h5-loop-rb.html
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Goni stalls near Philippines&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;5 reported killed, two missing&nbsp;
