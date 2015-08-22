@@ -2,6 +2,6 @@
 <span class="heading">North Atlantic - Water Vapor</span>
 <table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/atlantic/images/xxwvg8bbm.jpg?update3') no-repeat center center;background-size:900px;">
 <tr><td>
-<div style="font-weight:bold;font-size:14px;position:relative;top:110px;left:110px;">DANNY</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:90px;left:110px;">DANNY</div>
 </td></tr>
 </table>
