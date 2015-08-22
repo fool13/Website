@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: https://pbs.twimg.com/media/CM-OdxSWsAA6VZy.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;00Z FOR HURRICANE DANNY&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;located at 14.6N, 49.3W winds of 110mph and pressure of 977mb&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Thanks For Joining Us&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) batters the northern tip of Luzon
