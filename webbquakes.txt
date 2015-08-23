@@ -31,4 +31,4 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 4.5        8.5        40.0    -95.0    08/10/15    22:00     This_Month     RSMC Craig  
 8.2        40.0       45.0    173.2    08/19/15    02:38     This_Month     RSMC Mineral City  
 6.1        23.0       48.4    173.7    08/19/15    17:58     This_Month     RSMC Mineral City
-5.5        20.4       50.3    171.2    08/21/15    20:46     Last_24_Hours  RSMC Mineral City
+5.5        20.4       50.3    171.2    08/21/15    20:46     This_Month     RSMC Mineral City
