@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/wpimages/wp6dee847f_06.png
+CONTENT_URL: http://www.force-13.com/wpimages/wpcec708f7_05_06.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Danny loses hurricane status&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Down to 65mph at 00:00 UTC&nbsp;
