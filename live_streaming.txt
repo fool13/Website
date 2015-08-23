@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
-ALERT_MODE: OFF
+ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wpcec708f7_05_06.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Danny loses hurricane status&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Down to 65mph at 00:00 UTC&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Loke becomes a tropical storm again&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Up to 40mph at 00:00 UTC&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) delivering heavy rainfall over Taiwan
