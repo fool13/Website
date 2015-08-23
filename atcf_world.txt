@@ -1,5 +1,5 @@
 /// SIM /// ## IMPORTANT: the mph metric system has replaced the knots metric system. ##
-09 SYSTEMS ACTIVE
+08 SYSTEMS ACTIVE
 Date             Name                mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 ---------------------------------------------------------------------------------------------------------
 20150823.0900    05D.DORIAN          45     995       v      #3A     30.0     120.8      70       SS
