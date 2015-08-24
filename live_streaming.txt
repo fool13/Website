@@ -7,16 +7,16 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wpcec708f7_05_06.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Loke becomes a tropical storm again&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Up to 40mph at 00:00 UTC&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Goni makes landfall on Japan&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Remains a Category 3 typhoon at 21:00 UTC&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Typhoon Ineng (Goni) delivering heavy rainfall over Taiwan
-Typhoon Atsani continues to curve away from Japan
-Hurricane Danny weakening, Tropical Storm Watches in effect
-Signal #2 Warnings in effect for the Batanes Islands
-No typhoon warnings in effect for Taiwan despite its close proximity
-Tropical Storm Kilo a threat to Hawaii next week
+Typhoon Ineng (Goni) delivering typhoon force winds and heavy rainfall to Japan
+Tropical Storm Atsani gradually fading away out to sea
+No more Danny, possibly Erika very soon though in the Atlantic
+Typhoon Warnings in effect for the Amami Islands, Kyushu, Shikoku, and Chugoku
+Gale Advisories in effect for Kinki, Tokai, and Hokuriku
+Kilo and Loke remain present in the Central Pacific
 www.force-13.com
 www.facebook.com/ForceThirteen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ForceThirteen on Twitter
 </marquee>
