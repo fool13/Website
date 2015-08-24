@@ -3,33 +3,33 @@
 <br><br>
 <table style="width:100%;">
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04L/imagery/rbtop-animated.gif" style="height:180px;">
-</td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
-<span style="font-weight:bold;font-size:28px;display:inline-block;">
-Hurricane DANNY</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/22/15</span><br>
-Position: 15.8N, 53.3W <br>
-Wind: 75mph<br>
-Pressure: 991mb<br>
-</tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/22/15</span><br>
-Position: 22.3N, 123.2E<br>
-Wind: 90mph<br>
-Pressure: 963mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/23/15</span><br>
+Position: 31.5N, 129.9E <br>
+Wind: 125mph<br>
+Pressure: 941mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/17W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Typhoon ATSANI</span><br>
+Tropical Storm ATSANI</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/23/15</span><br>
+Position: 33.8N, 152.9E<br>
+Wind: 70mph<br>
+Pressure: 978mb<br>
+</tr></td><td style="text-align:right;width:50px;vertical-align:top;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04C/imagery/vis-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04C/imagery/rbtop-animated.gif" style="height:180px;">
+</td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
+<span style="font-weight:bold;font-size:28px;display:inline-block;">
+Tropical Storm LOKE</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/22/15</span><br>
-Position: 28.9N, 145.2E<br>
-Wind: 90mph<br>
-Pressure: 963mb<br>
+Position: 25.2N, 176.8W<br>
+Wind: 65mph<br>
+Pressure: 994mb<br>
 </tr></td></table>
