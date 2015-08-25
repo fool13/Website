@@ -1,6 +1,6 @@
 <br>
 <span class="heading">Welcome to the Force Thirteen Live Stream!</span>
-<table style="width:100%;height:680px;background:url('http://cdn.meme.am/instances/63906944.jpg') no-repeat center center;background-size:900px;">
+<table style="width:100%;height:680px;background:url() no-repeat center center;background-size:900px;">
 <tr><td>
 </td></tr>
 </table>
