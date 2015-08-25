@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/eastpac/winds/wg9sht.GIF
+CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/atlantic/winds/wg8sht.GIF
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;We're back at 00:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
