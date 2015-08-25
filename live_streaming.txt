@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wpcec708f7_05_06.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Goni makes landfall on Japan&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Remains a Category 3 typhoon at 21:00 UTC&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS: HURRICANE LOKE&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;As of 00Z, Loke now a category 1 hurricane&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) delivering typhoon force winds and heavy rainfall to Japan
