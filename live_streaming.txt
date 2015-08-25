@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: ON
-BREAKING_NEWS: ON
+BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wpcec708f7_05_06.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS: HURRICANE LOKE&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;As of 00Z, Loke now a category 1 hurricane&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Thanks For Joining Us&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Typhoon Ineng (Goni) delivering typhoon force winds and heavy rainfall to Japan
