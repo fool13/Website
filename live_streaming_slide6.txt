@@ -8,7 +8,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03C/imagery/vis0.gif?update3" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/25/15</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
 <strong>30mph</strong> &nbsp;&nbsp;&nbsp; 1006mb
 </td></tr>
 </table>
