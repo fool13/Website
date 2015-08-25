@@ -8,7 +8,7 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Typhoon GONI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/24/15</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/24/15</span><br>
 Position: 31.5N, 129.9E <br>
 Wind: 125mph<br>
 Pressure: 941mb<br>
@@ -18,8 +18,8 @@ Pressure: 941mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm ATSANI</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/24/15</span><br>
-Position: 33.8N, 152.9E<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/25/15</span><br>
+Position: 35.2N, 155.8E<br>
 Wind: 70mph<br>
 Pressure: 978mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
@@ -27,9 +27,9 @@ Pressure: 978mb<br>
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04C/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Storm LOKE</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/24/15</span><br>
-Position: 25.2N, 176.8W<br>
-Wind: 65mph<br>
-Pressure: 994mb<br>
+Hurricane LOKE</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/25/15</span><br>
+Position: 26.3N, 175.3W<br>
+Wind: 75mph<br>
+Pressure: 990mb<br>
 </tr></td></table>
