@@ -1,5 +1,5 @@
 <br>
-<span class="heading" style="font-size:55px;">Hurricane Loke</span>
+<span class="heading" style="font-size:55px;">Tropical Storm Loke</span>
 <br><br>
 <table style="width:100%;">
 <tr><td style="text-align:right;width:50%;vertical-align:top;">
@@ -8,10 +8,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04C/imagery/vis0.gif" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/25/15</span><br>
-<strong>75mph</strong> &nbsp;&nbsp;&nbsp; 990mb<br>
-<small><strong>About 18mi SE of Midway Island<br>
-About 110mi SSW of Pearl and Hermes Atoll<br>
-About 85mi WNW of Lisianski Island</strong></small>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
+<strong>70mph</strong> &nbsp;&nbsp;&nbsp; 988mb<br>
 </td></tr>
 </table>
