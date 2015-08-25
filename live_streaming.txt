@@ -13,8 +13,8 @@ BREAKING_NEWS_DESCRIPTION: &nbsp;We're back on air at 00:00 UTC&nbsp;
 <marquee behavior="scroll" direction="left">
 Typhoon Goni's remnants batter Korea and Russia
 Atsani turns post-tropical
-Tropical Storm Erika weaken on approach to the Lesser Antilles
-Tropical Storm Warnings in effect for the Leeward Islands
+Tropical Storm Erika weakens on approach to the Lesser Antilles
+Tropical Storm Watches in effect for the Leeward Islands
 No more warnings in effect from Loke, which has weakened
 Erika an Atlantic threat in the next five days.
 www.force-13.com
