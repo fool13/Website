@@ -1,22 +1,22 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
-SHOW_LIVE: OFF
-SHOW_UTC_TIME: OFF
+BREAKING_NEWS: ON
+SHOW_LIVE: ON
+SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wpcec708f7_05_06.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Thanks For Joining Us&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Tropical Storm Ignacio forms in the Eastern Pacific&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Possibly our next hurricane&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Typhoon Ineng (Goni) delivering typhoon force winds and heavy rainfall to Japan
-Tropical Storm Atsani gradually fading away out to sea
-No more Danny, possibly Erika very soon though in the Atlantic
-Typhoon Warnings in effect for the Amami Islands, Kyushu, Shikoku, and Chugoku
-Gale Advisories in effect for Kinki, Tokai, and Hokuriku
-Kilo and Loke remain present in the Central Pacific
+Typhoon Goni's remnants batter Korea and Russia
+Atsani turns post-tropical
+Tropical Storm Erika weaken on approach to the Lesser Antilles
+Tropical Storm Warnings in effect for the Leeward Islands
+No more warnings in effect from Loke, which has weakened
+Erika an Atlantic threat in the next five days.
 www.force-13.com
 www.facebook.com/ForceThirteen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ForceThirteen on Twitter
 </marquee>
