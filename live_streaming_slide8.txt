@@ -4,7 +4,6 @@
 <tr><td>
 <div style="font-weight:bold;font-size:14px;position:relative;top:250px;right:300px;">KILO</div>
 <div style="font-weight:bold;font-size:14px;position:relative;top:150px;left:10px;">IGNACIO</div>
-<div style="font-weight:bold;font-size:14px;position:relative;bottom:150px;left:270px;">96E</div>
 </td></tr>
 </table>
 
