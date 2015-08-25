@@ -2,10 +2,10 @@
 <span class="heading">Force Thirteen's Outlets</span>
 <table style="width:100%;">
 <tr><td>
-Website: www.force-13.com
-www.facebook.com/ForceThirteen
-@ForceThirteen on Twitter
-Forcethirteen on Instagram
+Website: www.force-13.com<br>
+www.facebook.com/ForceThirteen<br>
+@ForceThirteen on Twitter<br>
+Forcethirteen on Instagram<br>
 Add "Fool13" on Skype for tropical weather chat!
 </td></tr>
 </table>
