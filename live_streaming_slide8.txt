@@ -3,7 +3,7 @@
 <table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/eastpac/images/xxwvg9bbm.jpg?update3') no-repeat center center;background-size:900px;">
 <tr><td>
 <div style="font-weight:bold;font-size:14px;position:relative;top:250px;right:300px;">KILO</div>
-<div style="font-weight:bold;font-size:14px;position:relative;top:155px;left:10px;">IGNACIO</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:168px;left:7px;">IGNACIO</div>
 <div style="font-weight:bold;font-size:14px;position:relative;top:70px;left:160px;">13-E</div>
 </td></tr>
 </table>
