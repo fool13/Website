@@ -7,16 +7,16 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://realearth.ssec.wisc.edu/?products=himawari08-rgb.100&center=-5.261158914562649,-232.4621124267578&zoom=8&width=1670&height=945&timeproduct=himawari08-rgb&timespan=-43200s
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Thanks for watching!&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;We're back on air tomorrow evening UTC/Eastern&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Tracking Tropical Storm Erika&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Tropical Storm Warnings are in effect for the Lesser Antilles&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Typhoon Goni's remnants batter Korea and Russia
-Atsani turns post-tropical
-Tropical Storm Erika weakens on approach to the Lesser Antilles
-Tropical Storm Watches in effect for the Leeward Islands
-No more warnings in effect from Loke, which has weakened
-Erika an Atlantic threat in the next five days.
+Erika sparks watches and warnings as far as the southeastern Bahamas
+Tropical Storm Ignacio expected to become a hurricane soon
+Tropical Depression 13-E expected to become a significant storm, too
+Many models predict a significant hurricane near the east coast of Florida next week
+Kilo finally retakes tropical storm status
+Western Pacific is quiet
 www.force-13.com
 www.facebook.com/ForceThirteen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ForceThirteen on Twitter
 </marquee>
