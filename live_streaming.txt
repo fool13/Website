@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://realearth.ssec.wisc.edu/?products=himawari08-rgb.100&center=26.073493341175304,203.74455261230472&zoom=5&width=1670&height=945&timeproduct=himawari08-rgb&timespan=-43200s
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;NOAA planes find Erika no stronger on their 8pm ET update&nbsp;
