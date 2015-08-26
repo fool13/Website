@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://realearth.ssec.wisc.edu/?products=himawari08-rgb.100&center=-5.261158914562649,-232.4621124267578&zoom=8&width=1670&height=945&timeproduct=himawari08-rgb&timespan=-43200s
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.force-13.com/tracker/
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tropical Storm Erika&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Tropical Storm Warnings are in effect for the Lesser Antilles&nbsp;
