@@ -1,4 +1,4 @@
-20150821.2100   /// SIM ///
+20150826.2100   /// SIM ///
 30 EARTHQUAKE REPORTS AS OF JAN 01, 2015
 Magnitude   Depth     Lat     Lon      Date        Time      When           Reported
 ------------------------------------------------------------------------------------------------------
@@ -32,3 +32,4 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 8.2        40.0       45.0    173.2    08/19/15    02:38     This_Month     RSMC Mineral City  
 6.1        23.0       48.4    173.7    08/19/15    17:58     This_Month     RSMC Mineral City
 5.5        20.4       50.3    171.2    08/21/15    20:46     This_Month     RSMC Mineral City
+6.4        10.0       45.0   -110.0    08/26/15    20:39     Last_24_Hours  RSMC Kilmarnock
