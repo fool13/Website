@@ -8,28 +8,28 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm LOKE</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
-Position: 30.2N, 173.1W<br>
-Wind: 70mph<br>
-Pressure: 988mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
+Position: 36.6N, 179.2W<br>
+Wind: 60mph<br>
+Pressure: 990mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03C/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03C/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Depression KILO</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
-Position: 18.5N, 167.2W<br>
-Wind: 30mph<br>
-Pressure: 1006mb<br>
+Tropical Storm KILO</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
+Position: 18.4N, 167.6W<br>
+Wind: 40mph<br>
+Pressure: 1004mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/05L/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/05L/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm ERIKA</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
-Position: 15.3N, 51.9W<br>
-Wind: 40mph<br>
-Pressure: 1004mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
+Position: 16.6N, 58.9W<br>
+Wind: 45mph<br>
+Pressure: 1005mb<br>
 </tr></td></table>
