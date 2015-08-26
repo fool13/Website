@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=goes-west_goes-east/goes-14_1_minute_infrared_sector_02&width=1020&height=720&number_of_images_to_display=60&loop_speed_ms=80
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=goes-west_goes-east/goes-14_1_minute_visible_sector_02&width=1020&height=720&number_of_images_to_display=60&loop_speed_ms=80
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;NOAA planes find Erika no stronger on their 8pm ET update&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;We're back on air at 00:00 UTC&nbsp;
