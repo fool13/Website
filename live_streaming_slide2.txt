@@ -7,18 +7,18 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Depression 13-E</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
-Position: 18.5N, 167.2W<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
+Position: 10.6N, 112.6W<br>
 Wind: 30mph<br>
-Pressure: 1006mb<br>
+Pressure: 1007mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/12E/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/12E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm Ignacio</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
-Position: 18.5N, 167.2W<br>
-Wind: 30mph<br>
-Pressure: 1006mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
+Position: 11.8N, 135.7W<br>
+Wind: 65mph<br>
+Pressure: 998mb<br>
 </tr></td></table>
