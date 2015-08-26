@@ -1,4 +1,4 @@
-/// SIM /// ## A TEST INVEST IS BEING USED TO CHECK THAT THE MPH CODE IS FUNCTIONING PROPERLY. -JASON ##
+/// SIM /// ## A code testing is scheduled on August 31 at 0730am AWST. An INVEST will be used for this test. ##
 09 SYSTEMS ACTIVE 
 Date             Name                mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 ---------------------------------------------------------------------------------------------------------
@@ -10,4 +10,3 @@ Date             Name                mph    mb      Trend    Adv      Lat       
 20150823.2100    15G.ERICKSON         35   1000       N      #10A    28.0     -26.4       00       00
 20150823.2100    16G.FAITH            85    979       v      #10     17.9      -9.9       99       99
 20150826.1800    06D.EMILY           115    963       ^      #4      17.4     119.2      100       85
-00000000.0000    80H.TEST             00    000       -      #0       5.0       0.0        0        0    ***TESTING ONLY****
