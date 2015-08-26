@@ -7,14 +7,4 @@
 </td><td style="text-align:left;width:50%;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/16W/imagery/vis0.gif?update3" style="height:400px;">
 </tr></td>
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/rbtop-animated.gif" style="height:180px;">
-</td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
-<span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Depression 13-E</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/25/15</span><br>
-Position: 18.5N, 167.2W<br>
-Wind: 30mph<br>
-Pressure: 1006mb<br>
-</td></tr>
 </table>
