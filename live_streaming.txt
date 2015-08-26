@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.nhc.noaa.gov/storm_graphics/AT05/refresh/AL0515W5_NL+gif/233752W5_NL_sm.gif
+CONTENT_URL: http://www.tropicaltidbits.com/storminfo/05L_tracks_latest.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;NOAA planes find Erika no stronger on their 8pm ET update&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;We're back on air at 00:00 UTC&nbsp;
