@@ -10,5 +10,6 @@
 <td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
 <span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
 <strong>60mph</strong> &nbsp;&nbsp;&nbsp; 990mb<br>
+<strong><small>About 690mi N of Midway Island</small></strong>
 </td>
 </table>
