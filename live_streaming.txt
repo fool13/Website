@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.tropicaltidbits.com/analysis/models/ecmwf/2015082612/ecmwf_z500_mslp_atl_11.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tropical Storm Erika&nbsp;
