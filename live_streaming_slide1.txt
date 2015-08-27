@@ -27,7 +27,7 @@ Pressure: 982mb<br>
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Storm Jimena</span><br>
+Tropical Storm JIMENA</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/27/15</span><br>
 Position: 12.4N, 117.7W<br>
 Wind: 45mph<br>
