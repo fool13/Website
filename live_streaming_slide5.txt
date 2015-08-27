@@ -1,15 +1,15 @@
 <br>
-<span class="heading" style="font-size:55px;">Tropical Storm ERIKA</span>
+<span class="heading" style="font-size:55px;">Tropical Depression 13-E</span>
 <br><br>
 <table style="width:100%;">
 <tr><td style="text-align:right;width:50%;vertical-align:top;">
-<img src="http://www.nrlmry.navy.mil/atcf_web/image_archives/2015/al052015.15082612.gif" style="height:400px;">
+<img src="http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/ep1315.gif" style="height:400px;">
 </td><td style="text-align:left;width:50%;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/05L/imagery/vis0.gif" style="height:400px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/vis0.gif" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
 <span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
-<strong>45mph</strong> &nbsp;&nbsp;&nbsp; 1005mb<br>
-<strong><small>About 195mi E of Antigua</small></strong>
+<strong>30mph</strong> &nbsp;&nbsp;&nbsp; 1007mb<br>
+<strong><small>About 865mi SSW of the southern tip of Baja California</small></strong>
 </td></tr>
 </table>
