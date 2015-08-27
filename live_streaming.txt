@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/atlantic/winds/wg8sht.GIF
+CONTENT_URL: http://www.ssd.noaa.gov/goes/east/tatl/wv-animated.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tropical Storm Erika&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Tropical Storm Warnings are in effect for the Lesser Antilles&nbsp;
