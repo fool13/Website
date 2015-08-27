@@ -4,6 +4,7 @@
 <table style="width:100%;">
 <tr><td>
 This year's Hurricane Week is taking place from November 2-7<br>
+<span style="height:10px;display:block;"></span>
 <strong>We're looking for the following:<strong><br>
 People to help narrate our documentary series<br>
 People with videos of past storms or any type of storm in 2015 to<br>
