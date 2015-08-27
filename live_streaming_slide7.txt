@@ -2,7 +2,7 @@
 <span class="heading">West Pacific - Water Vapor</span>
 <table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/westpac/images/xxwvgmsbbm.jpg?update3') no-repeat center center;background-size:900px;">
 <tr><td>
-<div style="font-weight:bold;font-size:14px;position:relative;top:120px;left:190px;">90W</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:120px;left:10px;">90W</div>
 <div style="font-weight:bold;font-size:14px;position:relative;top:70px;left:160px;">DISTURBANCE</div>
 </td></tr>
 </table>
