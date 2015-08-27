@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://flhurricane.com/imageanimator.php?175
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/images/gth_full.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking The Tropics&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live Updates on Tropical Storms Erika, Jimena, Kilo and Hurricane Ignacio&nbsp;
