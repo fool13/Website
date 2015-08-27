@@ -8,7 +8,7 @@ SHOW_CONTENT: OFF
 CONTENT_URL: http://www.nhc.noaa.gov/storm_graphics/AT05/refresh/AL0515W5_NL+gif/234115W5_NL_sm.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Talkin' Tropics&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Updates on Tropical Storms Erika, Jimena, and Kilo and Hurricane Ignacio&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Updates on Tropical Storms Erika, Jimena, Kilo and Hurricane Ignacio&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Erika sparks watches and warnings as far as the southeastern Bahamas
