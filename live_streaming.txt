@@ -4,8 +4,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://www.force-13.com/streaming/before.png
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.barbadosweather.org/Composite/Sabre/EC_Bar/201508270051.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tropical Storm Erika&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Tropical Storm Warnings are in effect for the Lesser Antilles&nbsp;
