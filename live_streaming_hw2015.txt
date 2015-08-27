@@ -6,9 +6,9 @@
 This year's Hurricane Week is taking place from November 2-7<br>
 <span style="height:20px;display:block;"></span>
 <strong>We're looking for the following:<strong><br>
-<a style="font-size:16px;">People to help narrate our documentary series<br>
+<span style="font-size:16px;display:block;">People to help narrate our documentary series<br>
 People with videos of past storms or any type of storm in 2015 to<br>
 share with us on our showcase at the end of the week<br>
-Contact force-13@hotmail.co.uk</a>
+Contact force-13@hotmail.co.uk</span>
 </td></tr>
 </table>
