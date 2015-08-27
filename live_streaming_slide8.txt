@@ -4,7 +4,7 @@
 <tr><td>
 <div style="font-weight:bold;font-size:14px;position:relative;top:250px;right:300px;">KILO</div>
 <div style="font-weight:bold;font-size:14px;position:relative;top:168px;right:45px;">IGNACIO</div>
-<div style="font-weight:bold;font-size:14px;position:relative;top:1px;left:165px;">JIMENA</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:10px;left:170px;">JIMENA</div>
 </td></tr>
 </table>
 
