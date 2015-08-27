@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/before.png
+CONTENT_URL: http://www.force-13.com/streaming/after.png
 LIVE_LOCATION: F13 HQ - Guess The Storm
 BREAKING_NEWS_HEADING: &nbsp;Tracking The Tropics&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live Updates on Tropical Storms Erika, Jimena, Kilo and Hurricane Ignacio&nbsp;
