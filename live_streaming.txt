@@ -12,11 +12,11 @@ BREAKING_NEWS_DESCRIPTION: &nbsp;Live Updates on Tropical Storms Erika, Jimena, 
 
 <marquee behavior="scroll" direction="left">
 Erika sparks watches and warnings as far as the southeastern Bahamas
-Tropical Storm Ignacio expected to become a hurricane soon
-Tropical Depression 13-E expected to become a significant storm, too
-Many models predict a significant hurricane near the east coast of Florida next week
-Kilo finally retakes tropical storm status
-Invest 90W forms in the Western Pacific, just east of the Philippines
+Hurricane Ignacio significantly intensifying
+Tropical Storm Jimena also expected to become a hurricane
+Many models predict Erika to cause concern to the US East coast this weekend into next week
+Kilo intensifying, could become a hurricane
+Invest 90W is still alive near the Philippines
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
