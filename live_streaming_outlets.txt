@@ -1,7 +1,7 @@
 <br><br><br><br><br><br><br>
-<span class="heading">Force Thirteen's Outlets</span>
+<span class="heading" style="color:white;">Force Thirteen's Outlets</span>
 <span style="height:10px;display:block;"></span>
-<table style="width:100%;">
+<table style="width:100%;color:white;">
 <tr><td>
 Website: www.force-13.com<br>
 www.facebook.com/ForceThirteen<br>
