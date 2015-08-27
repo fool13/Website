@@ -28,8 +28,8 @@ Pressure: 1004mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm ERIKA</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
-Position: 16.6N, 58.9W<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/27/15</span><br>
+Position: 16.7N, 59.5W<br>
 Wind: 45mph<br>
-Pressure: 1005mb<br>
+Pressure: 1006mb<br>
 </tr></td></table>
