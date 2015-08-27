@@ -1,23 +1,7 @@
 <br>
-<span class="heading" style="font-size:55px;">Tropical Storm IGNACIO</span>
-<br><br>
-<table style="width:100%;">
-<tr><td style="text-align:right;width:50%;vertical-align:top;">
-<img src="http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/ep1215.gif" style="height:400px;">
-</td><td style="text-align:left;width:50%;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/12E/imagery/vis0.gif" style="height:400px;">
-</tr></td>
-<tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/26/15</span><br>
-<strong>65mph</strong> &nbsp;&nbsp;&nbsp; 998mb<br>
-<strong><small>About 1365mi ESE of Hilo, Hawaii</small></strong>
-</td></tr>
-</table>
-<!--
-<br>
-<span class="heading">Welcome to the Force Thirteen Live Stream!</span>
-<table style="width:100%;height:680px;background:url('https://scontent.fadl1-1.fna.fbcdn.net/hphotos-prn2/v/t1.0-9/558065_175664229257308_2129396168_n.png?oh=d093fae11686cf19f6b52d80ea81843c&oe=56707793') no-repeat center center;background-size:600px;">
+<span class="heading">West Pacific - Water Vapor</span>
+<table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/westpac/images/xxwvgmsbbm.jpg?update3') no-repeat center center;background-size:900px;">
 <tr><td>
+<div style="font-weight:bold;font-size:14px;position:relative;top:70px;left:160px;">90W</div>
 </td></tr>
 </table>
--->
