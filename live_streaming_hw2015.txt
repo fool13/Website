@@ -1,5 +1,6 @@
 <br><br><br><br><br><br><br>
 <span class="heading">Hurricane Week 2015</span>
+<span style="height:10px;display:block;"></span>
 <table style="width:100%;">
 <tr><td>
 This year's Hurricane Week is taking place from November 2-7<br>
