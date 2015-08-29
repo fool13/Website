@@ -4,11 +4,11 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wp3d16c3c7_06.png
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Triple major hurricanes in the Eastern Pacific&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Atlantic remains active&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;We will return at 00:00 UTC for an update&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Stay tuned!&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
