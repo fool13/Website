@@ -1,22 +1,21 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
-SHOW_LIVE: OFF
-SHOW_UTC_TIME: OFF
+BREAKING_NEWS: ON
+SHOW_LIVE: ON
+SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://flhurricane.com/imageanimator.php?175
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Thanks For Joining Us&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;www.force-13.com&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Triple major hurricanes in the Eastern Pacific&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Atlantic remains active&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Erika sparks watches and warnings as far as the southeastern Bahamas
-Hurricane Ignacio significantly intensifying
-Tropical Storm Jimena also expected to become a hurricane
-Many models predict Erika to cause concern to the US East coast this weekend into next week
-Kilo intensifying, could become a hurricane
-Invest 90W is still alive near the Philippines
+Hurricane Kilo could become a Category 5 near the Date Line
+Hurricane Ignacio draws closer to Hawaii, tropical storm watches in effect
+Hurricane Jimena weakens slightly, still a Category 4 storm
+90% chance of a tropical cyclone forming near the Cape Verde Islands
+Remnants of Erika have a moderate chance of regenerating
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
