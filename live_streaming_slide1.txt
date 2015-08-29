@@ -30,6 +30,6 @@ Pressure: 952mb<br>
 Major Hurricane IGNACIO</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/29/15</span><br>
 Position: 16.1N, 146.6W<br>
-Wind: 130mph<br>
-Pressure: 954mb<br>
+Wind: 140mph<br>
+Pressure: 951mb<br>
 </tr></td></table>
