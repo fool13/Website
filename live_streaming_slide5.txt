@@ -1,5 +1,5 @@
 <br>
-<span class="heading" style="font-size:55px;">Tropical Storm JIMENA</span>
+<span class="heading" style="font-size:55px;">Hurricane JIMENA</span>
 <br><br>
 <table style="width:100%;">
 <tr><td style="text-align:right;width:50%;vertical-align:top;">
@@ -8,7 +8,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/vis0.gif" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/27/15</span><br>
-<strong>60mph</strong> &nbsp;&nbsp;&nbsp; 999mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/29/15</span><br>
+<strong>140mph</strong> &nbsp;&nbsp;&nbsp; 945mb<br>
 </td></tr>
 </table>
