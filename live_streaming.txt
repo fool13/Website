@@ -4,7 +4,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
+SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/wpimages/wp3d16c3c7_06.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Triple major hurricanes in the Eastern Pacific&nbsp;
