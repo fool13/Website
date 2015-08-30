@@ -1,21 +1,21 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
-ALERT_MODE: ON
+ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wp11324307_06.png
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Kilo intensifies&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;130mph and a pressure of 948mb&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Fred a threat to Cape Verde&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the islands&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
-Hurricane Ignacio draws closer to Hawaii, tropical storm watches in effect
-Hurricane Jimena weakens slightly, still a Category 4 storm
-90% chance of a tropical cyclone forming near the Cape Verde Islands
-Remnants of Erika have a moderate chance of regenerating
+Hurricane Ignacio draws closer to Hawaii, Tropical Storm watches in effect
+Hurricane Jimena remains a Category 4 storm
+Tropical Storm Fred drawing closer to Hurricane status
+Remnants of Erika have a low chance of regenerating
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
