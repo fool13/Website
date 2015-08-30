@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
-CONTENT_URL: http://www.force-13.com/wpimages/wp11324307_06.png
+CONTENT_URL: http://www.ssd.noaa.gov/goes/west/tpac/vis-animated.gif
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Fred a threat to Cape Verde&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the islands&nbsp;
