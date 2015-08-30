@@ -8,7 +8,7 @@ SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wp3d16c3c7_06.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Kilo intensifies&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;130mph and a pressure of 950mb&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;130mph and a pressure of 948mb&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
