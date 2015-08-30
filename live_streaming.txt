@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
-ALERT_MODE: OFF
+ALERT_MODE: N
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/wpimages/wp3d16c3c7_06.png
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Tracking Hurricane Kilo, Ignacio, and Jimena&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Triple major hurricanes in the E. Pacific, the first of its kind&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Kilo intensifies&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;130mph and a pressure of 950mb&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
