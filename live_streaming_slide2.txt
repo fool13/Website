@@ -7,28 +7,28 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Major Hurricane JIMENA</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/29/15</span><br>
-Position: 12.6N, 125.9W<br>
-Wind: 140mph<br>
-Pressure: 945mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/30/15</span><br>
+Position: 14.5N, 130.3W<br>
+Wind: 145mph<br>
+Pressure: 940mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95L/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95L/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Invest 90L</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/29/15</span><br>
-Position: 22.4N, 77.5W<br>
-Wind: 40mph<br>
-Pressure: 1012mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/30/15</span><br>
+Position: 24.7N, 82.4W<br>
+Wind: 30mph<br>
+Pressure: 1013mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/99L/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/99L/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Invest 99L</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/29/15</span><br>
-Position: 9.8N, 16.6W<br>
-Wind: 30mph<br>
-Pressure: 1007mb<br>
+Tropical Storm Fred</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/30/15</span><br>
+Position: 14.4N, 21.3W<br>
+Wind: 65mph<br>
+Pressure: 998mb<br>
 </tr></td></table>
