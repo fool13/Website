@@ -21,20 +21,20 @@ changed before the ATCF update will be filled by the Master Computer.
 
 ------------------------------------------------------------------------------------------------------
 
-1. MAJOR HURRICANE WANDA - 0000 UTC on August 21, 2015
-Intensity: 100kts, 949mb
-Location: 31.4*N 101.1*W
-Movement: N at 25kts
-Forward motion change: +1kts
-Current direction: 005 degrees
-Expected forward motion change in 24 hours: -1kts
+1. INVEST 97G
+Intensity: 20kts, 1010mb
+Location: 13.1*N 91.5*W
+Movement: NE at 5kts
+Forward motion change: 0kts
+Current direction: 045 degrees
+Expected forward motion change in 24 hours: 0kts
 Current SST: 26.0*C
-SST change: -0.5*C
+SST change: 0*C
 Expected SST change: +0*C
-Current WV: 91%
-WV change since last update: +5%
-Expected WV change in 24 hours: -25%
-Expected WV change in 72 hours: -10%
-Current Windshear: 19kts
-Windshear change since the last update: +5kts
-Expected windshear change in 24 hours: -21kts
+Current WV: 25%
+WV change since last update: 0%
+Expected WV change in 24 hours: 0%
+Expected WV change in 72 hours: -5%
+Current Windshear: 12kts
+Windshear change since the last update: 0kts
+Expected windshear change in 24 hours: -8kts
