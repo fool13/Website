@@ -1,14 +1,14 @@
 <br>
-<span class="heading" style="font-size:55px;">Invest 90L</span>
+<span class="heading" style="font-size:55px;">Tropical Storm Fred</span>
 <br><br>
 <table style="width:100%;">
 <tr><td style="text-align:right;width:50%;vertical-align:top;">
 <img src="" style="height:400px;">
 </td><td style="text-align:left;width:50%;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/90L/imagery/vis0.gif" style="height:400px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/06L/imagery/vis0.gif" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/30/15</span><br>
-<strong>40mph</strong> &nbsp;&nbsp;&nbsp; 1008mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/31/15</span><br>
+<strong>70mph</strong> &nbsp;&nbsp;&nbsp; 995mb<br>
 </td></tr>
 </table>
