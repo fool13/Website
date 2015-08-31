@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/1/1b/Frances_09_sep_1980_1003Z_N6.jpg
+CONTENT_URL: http://www.force-13.com/wpimages/wp07367e7a_06.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Fred intensifies&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the Cape Verde islands&nbsp;
