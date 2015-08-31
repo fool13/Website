@@ -27,8 +27,8 @@ Pressure: 1013mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm Fred</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 21:00UTC, 08/30/15</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/31/15</span><br>
 Position: 14.4N, 21.3W<br>
-Wind: 65mph<br>
-Pressure: 998mb<br>
+Wind: 70mph<br>
+Pressure: 995mb<br>
 </tr></td></table>
