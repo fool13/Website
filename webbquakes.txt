@@ -26,10 +26,10 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 3.4        10.4       60.3     88.1    07/15/15    15:48     Last_Month     RSMC Alton
 4.5        10.7       31.4   -127.4    07/18/15    18:15     Last_Month     RSMC Alton
 6.4        10.0       38.4     90.0    07/18/15    18:18     Last_Month     RSMC Alton
-4.2        10.4       30.4     92.3    08/03/15    17:04     This_Month     RSMC Alton
-4.8        40.5       35.4   -120.4    08/08/15    17:17     This_Month     RSMC Alton
-4.5        8.5        40.0    -95.0    08/10/15    22:00     This_Month     RSMC Craig  
-8.2        40.0       45.0    173.2    08/19/15    02:38     This_Month     RSMC Mineral City  
-6.1        23.0       48.4    173.7    08/19/15    17:58     This_Month     RSMC Mineral City
-5.5        20.4       50.3    171.2    08/21/15    20:46     This_Month     RSMC Mineral City
-6.4        10.0       45.0   -110.0    08/26/15    20:39     Last_24_Hours  RSMC Kilmarnock
+4.2        10.4       30.4     92.3    08/03/15    17:04     Last_Month     RSMC Alton
+4.8        40.5       35.4   -120.4    08/08/15    17:17     Last_Month     RSMC Alton
+4.5        8.5        40.0    -95.0    08/10/15    22:00     Last_Month     RSMC Craig  
+8.2        40.0       45.0    173.2    08/19/15    02:38     Last_Month     RSMC Mineral City  
+6.1        23.0       48.4    173.7    08/19/15    17:58     Last_Month     RSMC Mineral City
+5.5        20.4       50.3    171.2    08/21/15    20:46     Last_Month     RSMC Mineral City
+6.4        10.0       45.0   -110.0    08/26/15    20:39     Last_Month     RSMC Kilmarnock
