@@ -36,4 +36,4 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 5.3        23.0       40.0    160.0    09/05/15    17:47     Last_24_Hours  RSMC Mineral City
 4.8        24.0       42.7    161.5    09/06/15    02:18     Last_24_Hours  DVN Nashua
 2.9        21.9       41.2    161.1    09/06/15    02:40     Last_24_Hours  DVN Nashua
-2.1        22.3       43.2    163.6    09/06/15    14:55     Last_24_Hours  DVN Nashua
+2.1        22.3       43.2    164.3    09/06/15    14:55     Last_24_Hours  DVN Nashua
