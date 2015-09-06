@@ -33,8 +33,34 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 6.1        23.0       48.4    173.7    08/19/15    17:58     Last_Month     RSMC Mineral City
 5.5        20.4       50.3    171.2    08/21/15    20:46     Last_Month     RSMC Mineral City
 6.4        10.0       45.0   -110.0    08/26/15    20:39     Last_Month     RSMC Kilmarnock
-5.3        23.0       40.0    160.0    09/05/15    17:47     Last_24_Hours  RSMC Mineral City
+5.3        23.0       40.0    160.0    09/05/15    17:47     This_Month     RSMC Mineral City
 4.8        24.0       42.7    161.5    09/06/15    02:18     Last_24_Hours  DVN Nashua
 2.9        21.9       41.2    161.1    09/06/15    02:40     Last_24_Hours  DVN Nashua
 2.1        22.3       43.8    165.3    09/06/15    14:55     Last_24_Hours  DVN Nashua
 7.6        39.0       44.3    164.8    09/06/15    14:59     Last_24_Hours  DVN Nashua
+2.8        10.6       23.5    85.7     09/06/15    12:13     Last_24_Hours  RSMC Alton
+4.2        14.5       27.2    89.5     09/06/15    12:15     Last_24_Hours  RSMC Alton
+7.2        37.2       31.5    90.3     09/06/15    12:22     Last_24_Hours  RSMC Alton
+2.6        5.6        52.7    92.1     09/06/15    12:52     Last_24_Hours  RSMC Alton
+4.2        9.8        55.3    95.7     09/06/15    13:03     Last_24_Hours  RSMC Alton
+3.5        5.9        43.7    67.8     09/06/15    13:03     Last_24_Hours  RSMC Alton
+3.9        4.0        53.5    58.4     09/06/15    13:06     Last_24_Hours  RSMC Alton
+5.2        15.3       63.9    102.5    09/06/15    13:15     Last_24_Hours  RSMC Alton
+9.5        62.7       23.2    109.3    09/06/15    13:27     Last_24_Hours  RSMC Alton
+9.2        52.5       69.4    111.8    09/06/15    13:34     Last_24_Hours  RSMC Alton
+1.5        2.8        64.5    101.2    09/06/15    14:05     Last_24_Hours  RSMC Alton
+2.5        1.1        66.5    99.7     09/06/15    14:15     Last_24_Hours  RSMC Alton
+3.8        5.2        26.5    68.5     09/06/15    14:19     Last_24_Hours  RSMC Alton
+5.2        8.6        25.5    62.1     09/06/15    14:28     Last_24_Hours  RSMC Alton
+7.2        22.4       22.5    59.2     09/06/15    14:37     Last_24_Hours  RSMC Alton
+6.4        15.8       11.5    76.6     09/06/15    14:46     Last_24_Hours  RSMC Alton
+6.1        12.9       25.5    84.2     09/06/15    14:55     Last_24_Hours  RSMC Alton
+2.1        4.4        77.5    68.5     09/06/15    14:56     Last_24_Hours  RSMC Alton
+2.6        6.1        69.5    97.4     09/06/15    15:08     Last_24_Hours  RSMC Alton
+2.9        7.7        62.5    92.2     09/06/15    15:15     Last_24_Hours  RSMC Alton
+2.5        5.2        44.5    97.1     09/06/15    15:16     Last_24_Hours  RSMC Alton
+6.5        18.5       53.5    94.5     09/06/15    15:39     Last_24_Hours  RSMC Alton
+3.5        22.2       29.5    112.2    09/06/15    15:46     Last_24_Hours  RSMC Alton
+3.1        10.2       35.5    118.6    09/06/15    15:52     Last_24_Hours  RSMC Alton
+3.2        11.2       31.5    97.1     09/06/15    16:03     Last_24_Hours  RSMC Alton
+3.9        6.2        38.5    102.0    09/06/15    16:13     Last_24_Hours  RSMC Alton
