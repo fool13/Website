@@ -34,3 +34,4 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 5.5        20.4       50.3    171.2    08/21/15    20:46     Last_Month     RSMC Mineral City
 6.4        10.0       45.0   -110.0    08/26/15    20:39     Last_Month     RSMC Kilmarnock
 5.3        23.0       40.0    160.0    09/05/15    17:47     Last_24_Hours  RSMC Mineral City
+4.8        24.0       42.7    161.5    09/06/15    02:18     Last_24_Hours  DVN Nashua
