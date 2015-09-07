@@ -36,23 +36,4 @@ Magnitude   Depth     Lat     Lon      Date        Time      When           Repo
 5.3        23.0       40.0    160.0    09/05/15    17:47     This_Month     RSMC Mineral City
 4.8        24.0       42.7    161.5    09/06/15    02:18     Last_24_Hours  DVN Nashua
 2.9        21.9       41.2    161.1    09/06/15    02:40     Last_24_Hours  DVN Nashua
-4.2        14.5       25.2    89.5     09/06/15    12:15     Last_24_Hours  RSMC Alton
-7.2        37.2       22.5    90.3     09/06/15    12:22     Last_24_Hours  RSMC Alton
-4.2        9.8        28.3    95.7     09/06/15    13:03     Last_24_Hours  RSMC Alton
-3.5        5.9        22.7    97.8     09/06/15    13:03     Last_24_Hours  RSMC Alton
-3.9        4.0        24.5    98.4     09/06/15    13:06     Last_24_Hours  RSMC Alton
-5.2        15.3       23.9    102.5    09/06/15    13:15     Last_24_Hours  RSMC Alton
-9.5        62.7       27.2    105.3    09/06/15    13:27     Last_24_Hours  RSMC Alton
-9.2        52.5       29.4    111.8    09/06/15    13:34     Last_24_Hours  RSMC Alton
-3.8        5.2        25.5    98.5     09/06/15    14:19     Last_24_Hours  RSMC Alton
-5.2        8.6        25.5    92.1     09/06/15    14:28     Last_24_Hours  RSMC Alton
-7.2        22.4       22.5    99.2     09/06/15    14:37     Last_24_Hours  RSMC Alton
-6.4        15.8       21.5    96.6     09/06/15    14:46     Last_24_Hours  RSMC Alton
-6.1        12.9       19.5    94.2     09/06/15    14:55     Last_24_Hours  RSMC Alton
 7.6        39.0       44.3    164.8    09/06/15    14:59     Last_24_Hours  DVN Nashua
-6.5        18.5       30.5    94.5     09/06/15    15:39     Last_24_Hours  RSMC Alton
-3.5        22.2       21.5    112.2    09/06/15    15:46     Last_24_Hours  RSMC Alton
-3.9        6.2        31.5    102.0    09/06/15    16:13     Last_24_Hours  RSMC Alton
-4.1        2.7        25.2    104.2    09/06/15    17:56     Last_24_Hours  RSMC Alton
-4.6        21.4       29.4    102.4    09/06/15    18:02     Last_24_Hours  RSMC Alton
-11.2       74.5       19.2    89.4     09/06/15    19:01     Last_24_Hours  RSMC Alton
