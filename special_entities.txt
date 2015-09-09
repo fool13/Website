@@ -1,0 +1,16 @@
+Just tested this out.
+When you want the greek symbols to appear on hypoworld, just do this on the atcf_world.txt file.
+It looks a little messy but It shows up fine.
+Examples:
+23N.ALPHA&nbsp;&alpha; = ALPHA α
+24N.BETA&nbsp;&beta; = BETA β
+25N.GAMMA&nbsp;&gamma; = GAMMA γ
+26N.DELTA&nbsp;&delta; = DELTA δ
+
+If you want to put brackets, or for parenthesis, just do:
+23N.ALPHA&nbsp;[&alpha;] = ALPHA [α]
+23N.ALPHA&nbsp;(&alpha;) = ALPHA (α)
+
+The code uses the spaces in the atcf_world.txt file to locate each column.
+Having "23N.ALPHA [&alpha;]" will not work as "[&alpha;]" shows up in the mph column.
+Having "23N.ALPHA&nbsp;[α]" may not work as the code requries HTML markup text.
