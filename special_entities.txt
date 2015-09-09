@@ -13,4 +13,4 @@ If you want to put brackets, or for parenthesis, just do:
 
 The code uses the spaces in the atcf_world.txt file to locate each column.
 Having "23N.ALPHA [&alpha;]" will not work as "[&alpha;]" shows up in the mph column.
-Having "23N.ALPHA&nbsp;[α]" may not work as the code requries HTML markup text.
+Having "23N.ALPHA&nbsp;[α]" may not work as the code requries HTML markup text to display the symbol properly.
