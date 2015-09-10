@@ -1,9 +1,8 @@
 /// SIM /// ## NOTE: Space has been added in the Name column to compensate special character entities: α, β, γ ##
-08 SYSTEMS ACTIVE 
+07 SYSTEMS ACTIVE 
 Date             Name                           mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
 20150910.1200    12N.LYDIA                      40    1000      V      #49     62.5      80.2       100      BE
-20150909.1200    02X.APARI                      40    997       ^      #11A   -17.0     -67.1       100      0 
 20150910.1500    08H.EIGHT-H                    35    1002      ^      #2      22.1       2.8       74       37
 20150910.1200    07D.FREDDIE                    10    1015      ^      #18     38.6     164.6       00       EX
 20150910.1200    08D.GLORIA                     100   971       ^      #10A    21.0     166.0       100      100
