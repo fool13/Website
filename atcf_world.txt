@@ -1,4 +1,4 @@
-/// SIM /// # NOTICE: Storms with the most advisories take time for the code to process, keep them at the bottom #
+/// SIM /// # Storms with the most advisories take time for the code to process, let the code process them last #
 05 SYSTEMS ACTIVE
 Date             Name                           mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
