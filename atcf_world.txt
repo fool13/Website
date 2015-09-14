@@ -1,4 +1,4 @@
-/// SIM /// ## NOTE: Space has been added in the Name column to compensate special character entities: α, β, γ ##
+/// SIM ///
 05 SYSTEMS ACTIVE
 Date             Name                           mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
