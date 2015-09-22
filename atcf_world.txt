@@ -1,9 +1,9 @@
-/// SIM /// # Storms with the most advisories take time for the code to process, let the code process them last #
+/// SIM ///
 07 SYSTEMS ACTIVE
 Date             Name                           mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
-20150922.1200    12D.TWELVE-D                   35    1007      ^      #3      18.7     174.6       80       45
 20150922.1200    95N.INVEST                     25    1002      ^      #1      13.0      72.1       30        1
+20150922.1200    12D.TWELVE-D                   35    1007      ^      #3      18.7     174.6       80       45
 20150918.0300    08H.MAANIKA                    60    994       v      #17     25.3       8.4       70       26
 20150922.1200    10D.IDA                        75    984       v      #24     35.4     179.7       65        5
 20150922.1200    11D.JOHN                       160   929       ^      #25     13.2     115.8       100      75
