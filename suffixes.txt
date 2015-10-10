@@ -27,3 +27,5 @@ THE NEXT [X] SUFFIX IS [93X]
 RSMC Jean City / RSMC Santa Catarina :
 THE NEXT [J] SUFFIX IS [90J]
 ------------------------------------------------------------
+HWMO (50°W to 50°E)
+THE NEXT [T] SUFFIX IS [90T]
