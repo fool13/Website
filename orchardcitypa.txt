@@ -1,31 +1,26 @@
 ORCHARD CITY STORM CENTRE
-0000 UTC   18 AUG 2015
+1200 UTC   16 OCT 2015
 -------------------------
 PUBLIC ADVISORIES
 -------------------------
-HURRICANE HUNTERS FIND WANDA A CATEGORY 5 HURRICANE
+TROPICAL STORM ADAM FORMS NEAR KENT PROVINCE
 
-Advisory #11 on Major Hurricane WANDA
-165MPH     917MB
-14.5N      98.6W
-Movement NNW at 15mph
+Advisory #1 on Tropical Storm ADAM
+40MPH     1001MB
+8.1N      129.3W
+Movement ESE at 5mph
 
 STATUS
-At 00:00 UTC ... 18:00 FDT ... Major Hurricane Wanda was located 380 miles east of Port Foy, Foy Province, and 
-is rapidly intensifying once again. Hurricane Hunters have found that Wanda now has sustained winds of 
-165mph ... 265km/h, with a central air pressure of 917mb ... 27.08inHg. Dry air remains present to the northwest 
-of the storm, and Wanda is still battling to keep this away from the storm's center.
+At 12:00 UTC ... 06:00 FDT ... A new tropical storm formed near Kent province, and is currently exhibiting signs of
+further intensification.
 
 WARNINGS
-No warnings are in effect for land areas, however the storm is now generating rough surf between Port Foy and
-Rushden Point. All beaches in the area are closed. Rough sea conditions are expected to begin further north in the
-next day or two.
+A TROPICAL STORM WARNING is in effect for Guy and South Counties
+A TROPICAL STORM WATCH is in effect for southern Hampton province
 
 FORECAST
-Forecast models still have the storm fairly close to the east coast of the Fool's Republic, and storm conditions 
-are a possibility for this region. However, hurricane conditions are still not expected here. Those living anywhere
-between Rushden Point and Cape Wrath, including islands, should stay tuned for future updates and advice from your 
-local National Weather Service office.
+The storm is expected to continue in an easterly direction with no significant change in forward speed. A turn towards
+the north appears likely on Day 2 through 5
 
 $$
 Forecaster Foy
