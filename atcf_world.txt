@@ -1,5 +1,5 @@
-/// SIM ///   ##NOTE: THE ATCF WILL BE DOWN BETWEEN 0000z AND 0600z 10/21/15 TO COLLECT TRACK DATA FOR ANIMATIONS##  
+/// SIM ///   ##NOTE: THE ATCF WILL BE DOWN BETWEEN 0000z AND 0300z 10/21/15 TO COLLECT TRACK DATA FOR ANIMATIONS##  
 08 SYSTEMS ACTIVE
 Date             Name                           mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
-00000000.0000   02D.ARLENE                      75     970     N       #X        0.0       0.0     0.0      0.0 
+00000000.0000   03D                             75     970     N       #X        0.0       0.0     00       00 
