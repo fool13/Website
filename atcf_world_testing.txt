@@ -1,5 +1,5 @@
 /// SIM - FOR TESTING ONLY: http://hypoworld.force-13.com/tracker/testing.html ///     
-02 SYSTEMS ACTIVE
+01 SYSTEMS ACTIVE
 Date             Name                           mph    mb      Trend    Adv      Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
 00000000.0000    50X.IWANNAHOTSON               30    1003      N      #0        0.0       0.0       00       00
