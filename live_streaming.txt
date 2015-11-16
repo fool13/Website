@@ -7,7 +7,7 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/93P/imagery/vis-animated.gif
 LIVE_LOCATION: Visible Floater of Invest 93P
-BREAKING_NEWS_HEADING: &nbsp;Watching Invest 93P in the South Pacific Ocean&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;BREAKING: Invest 93P in the South Pacific Ocean&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;93P is looking better this evening as it moves towards the Solomon Islands&nbsp;
 
 <marquee behavior="scroll" direction="left">
