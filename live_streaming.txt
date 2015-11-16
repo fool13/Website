@@ -1,13 +1,13 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
-ALERT_MODE: OFF
+ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.meteo.gov.vu/metfiles/charts/16111500Z.PNG
 LIVE_LOCATION: F13 AU
-BREAKING_NEWS_HEADING: &nbsp;Vanuatu Chart&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS Vanuatu Chart&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Here is the Vanuatu Weather Chart&nbsp;
 
 <marquee behavior="scroll" direction="left">
