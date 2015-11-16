@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.bom.gov.au/climate/mjo/graphics/rmm.phase.Last40days.gif
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Invest 93P in the South Pacific Ocean&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;93P is looking better this evening as it moves towards the Solomon Islands&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
