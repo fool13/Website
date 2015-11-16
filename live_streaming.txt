@@ -2,9 +2,9 @@ PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
 BREAKING_NEWS: ON
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
+SHOW_CONTENT: ON
 CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/e/ec/Hurricane_Paul_23_oct_2006_1530Z.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Hi David&nbsp;
