@@ -6,7 +6,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.meteo.gov.vu/metfiles/charts/16111500Z.PNG
-LIVE_LOCATION: F13 HQ
+LIVE_LOCATION: F13 AU
 BREAKING_NEWS_HEADING: &nbsp;Vanuatu Chart&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Here is the Vanuatu Weather Chart&nbsp;
 
