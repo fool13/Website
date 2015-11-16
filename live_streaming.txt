@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.bom.gov.au/fwo/IDY00030.201511160000.png
+CONTENT_URL: https://www.youtube.com/watch?v=AQTDl8xczJY
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
