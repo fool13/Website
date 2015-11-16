@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/e/ec/Hurricane_Paul_23_oct_2006_1530Z.jpg
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Fred intensifies&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the Cape Verde islands&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Hi David&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;How Are You&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
