@@ -1,11 +1,11 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: ON
+BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.bom.gov.au/climate/mjo/graphics/rmm.phase.Last40days.gif
+CONTENT_URL: http://www.bom.gov.au/products/IDR663.loop.shtml
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
