@@ -8,7 +8,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://www.meteo.gov.vu/metfiles/charts/16111500Z.PNG
 LIVE_LOCATION: F13 AU
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;&nbsp;
+BREAKING_NEWS_DESCRIPTION:
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
