@@ -5,9 +5,9 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/austeast/winds/wgmssht.GIF
-LIVE_LOCATION: Wind Shear in Australia
-BREAKING_NEWS_HEADING: &nbsp;Australia Windshear&nbsp;
+CONTENT_URL: http://www.ga.gov.au/earthquakes/
+LIVE_LOCATION: Earthquakes in Australia
+BREAKING_NEWS_HEADING: &nbsp;Earthquakes in Australia from Geoscience Australia&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Latest close-up of Australia from Himawari-8&nbsp;
 
 <marquee behavior="scroll" direction="left">
