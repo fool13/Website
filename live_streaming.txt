@@ -5,12 +5,12 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.abc.net.au/news/2015-11-16/less-than-half-of-planned-burns-completed-in-sa/6944720
+CONTENT_URL: http://www.bom.gov.au/fwo/IDY00030.201511160000.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
 
-<marquee behavior="scroll" direction="left">
+<marquee behavior="scroll" direction="left" style="display:none;">
 Hurricane Kilo could become a Category 5 near the Date Line
 Hurricane Ignacio draws closer to Hawaii, Tropical Storm watches in effect
 Hurricane Jimena remains a Category 4 storm
