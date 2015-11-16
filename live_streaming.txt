@@ -4,11 +4,11 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: https://www.youtube.com/watch?v=AQTDl8xczJY
-LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
+SHOW_CONTENT: ON
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_20151116043000.jpg
+LIVE_LOCATION: Himawari-8 Imagery
+BREAKING_NEWS_HEADING: &nbsp;Tracking 93P&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Providing coverage of Invest 93P in the South Pacific Ocean&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
