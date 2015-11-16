@@ -5,10 +5,10 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/full_disk_ahi_true_color/full_disk_ahi_true_color_20151116043000.jpg
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg
 LIVE_LOCATION: Himawari-8 Imagery
-BREAKING_NEWS_HEADING: &nbsp;Tracking 93P&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Providing coverage of Invest 93P in the South Pacific Ocean&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Australia&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Latest close-up of Australia from Himawari-8&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
