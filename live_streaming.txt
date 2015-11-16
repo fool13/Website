@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDQ20041.html
+CONTENT_URL: http://satview.bom.gov.au/
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
