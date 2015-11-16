@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
-SHOW_LIVE: OFF
-SHOW_UTC_TIME: OFF
-SHOW_CONTENT: OFF
+BREAKING_NEWS: ON
+SHOW_LIVE: ON
+SHOW_UTC_TIME: ON
+SHOW_CONTENT: ON
 CONTENT_URL: http://www.meteo.gov.vu/metfiles/charts/16111500Z.PNG
 LIVE_LOCATION: F13 AU
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: 
+BREAKING_NEWS_DESCRIPTION: &nbsp;Testing&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
