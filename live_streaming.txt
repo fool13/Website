@@ -10,7 +10,7 @@ LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;MJO&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;MJO weakening in the Maritime Continent&nbsp;
 
-<marquee behavior="scroll" direction="left" style="display:none;">
+<marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
 Hurricane Ignacio draws closer to Hawaii, Tropical Storm watches in effect
 Hurricane Jimena remains a Category 4 storm
