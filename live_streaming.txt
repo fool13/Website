@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-4.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Testing&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
 
 <marquee behavior="scroll" direction="left">
 Hurricane Kilo could become a Category 5 near the Date Line
