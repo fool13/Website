@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://force-13.com/streaming/f13icon_watermark.png
+CONTENT_URL: http://force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
