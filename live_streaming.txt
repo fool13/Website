@@ -11,12 +11,10 @@ BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Hurricane Kilo could become a Category 5 near the Date Line
-Hurricane Ignacio draws closer to Hawaii, Tropical Storm watches in effect
-Hurricane Jimena remains a Category 4 storm
-Tropical Storm Fred drawing closer to Hurricane status
-Remnants of Erika have a low chance of regenerating
-Jesus wants a hug!
+Tropical Storm Sandra continues to strengthen
+Typhoon In-fa slowly weakens
+Ex-Annabelle rapidly weakens
+Invest 95P forms northeast of Fiji in the South Pacific Ocean
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
