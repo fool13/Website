@@ -1,14 +1,14 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Testing breaking news red colour&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE Streaming Service&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;This stream is undergoing a testing phase&nbsp;
 
 <marquee behavior="scroll" direction="left">
 The Force Thirteen LIVE Streaming Service is undergoing a test phase
