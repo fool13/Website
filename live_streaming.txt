@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://i.ytimg.com/vi/PDdpo92ciDE/maxresdefault.jpg
+CONTENT_URL: http://orig12.deviantart.net/5186/f/2015/089/0/6/keep_calm_im_just_offline_by_kolynethu-d8npw7f.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
