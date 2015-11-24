@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://33.media.tumblr.com/tumblr_lt52l5a4Y41qg39ewo1_500.gif
+CONTENT_URL: https://i.ytimg.com/vi/PDdpo92ciDE/maxresdefault.jpg
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
