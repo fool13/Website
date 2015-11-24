@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
-CONTENT_URL: http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-4.jpg
+CONTENT_URL: http://i.imgur.com/60OqyCD.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
