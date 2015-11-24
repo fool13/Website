@@ -11,10 +11,8 @@ BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Nathan uses his webcam&nbsp;
 
 <marquee behavior="scroll" direction="left">
-Tropical Storm Sandra continues to strengthen
-Typhoon In-fa slowly weakens
-Ex-Annabelle rapidly weakens
-Invest 95P forms northeast of Fiji in the South Pacific Ocean
+The Force Thirteen LIVE Streaming Service is undergoing a test phase
+Service begins from November 29, 2015 at 0000 UTC
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
