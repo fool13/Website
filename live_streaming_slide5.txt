@@ -4,7 +4,7 @@
 <table style="width:100%;">
 <tr><td style="text-align:right;width:50%;vertical-align:top;display:none;">
 <img src="http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/undefined.gif" style="height:400px;">
-</td><td style="text-align:left;width:50%;vertical-align:top;">
+</td><td style="text-align:center;width:50%;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95P/imagery/vis0.gif" style="height:400px;">
 </tr></td>
 <tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
