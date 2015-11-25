@@ -11,6 +11,7 @@ BREAKING_NEWS_HEADING: &nbsp;Happy Anniversary&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen turns four today, another milestone added to the calendar&nbsp;
 
 <marquee behavior="scroll" direction="left">
+NHC: ...SANDRA STRENGTHENS TO A CATEGORY 2 HURRICANE... ...BECOMES THE STRONGEST HURRICANE IN THE EASTERN PACIFIC FOR THIS LATE IN THE YEAR...
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
