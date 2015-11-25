@@ -33,3 +33,6 @@ Position: 10.3S, 178.9E<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
+<script type="text/javascript">
+document.getElementById("countdown").style.opacity = "0.5";
+</script>
