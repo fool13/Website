@@ -1,10 +1,10 @@
 <br>
-<span class="heading">Eastern United States Floater- GOES Visible 14km resolution</span>
-<table style="width:100%;height:680px;background:url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCKna4v_7xMcCFcE7PgodjlgN0Q&url=http%3A%2F%2Fwww.memecenter.com%2Fsearch%2Fhurricane&ei=DMLcVamkNMH3-AGOsbWIDQ&psig=AFQjCNFm0zPAFFXw-q2HXwiJjIDyg-JqyA&ust=1440617259643810') no-repeat center center;background-size:900px;">
+<span class="heading">Wide shot of the Eastern Pacific</span>
+<table style="width:100%;height:680px;background:url('http://www.nrlmry.navy.mil/archdat/pacific/eastern/tropics/vis/LATEST.jpg') no-repeat center center;background-size:900px;">
 <tr><td>
-<div style="font-weight:bold;font-size:14px;position:relative;top:290px;right:430px;">LOKE</div>
-<div style="font-weight:bold;font-size:14px;position:relative;top:210px;right:300px;">KILO</div>
-<div style="font-weight:bold;font-size:14px;position:relative;top:80px;left:30px;">95E</div>
-<div style="font-weight:bold;font-size:14px;position:relative;bottom:50px;left:270px;">96E</div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:290px;right:430px;"></div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:210px;right:300px;"></div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:80px;left:30px;"></div>
+<div style="font-weight:bold;font-size:14px;position:relative;bottom:50px;left:270px;"></div>
 </td></tr>
 </table>
