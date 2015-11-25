@@ -34,5 +34,5 @@ Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
 <script type="text/javascript">
-document.getElementById("live").style.opacity = "0.1";
+window.top.location.reload();
 </script>
