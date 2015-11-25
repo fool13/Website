@@ -1,6 +1,6 @@
 <br>
 <span class="heading">Australian Bureau of Meteorlogy - MJO Pulse</span>
-<table style="width:100%;height:850px;background:url('http://www.bom.gov.au/climate/mjo/graphics/rmm.phase.Last40days.gif') no-repeat center center;background-size:60%;">
+<table style="width:100%;height:850px;background:url('http://www.bom.gov.au/climate/mjo/graphics/rmm.phase.Last40days.gif') no-repeat center center;background-size:cover;">
 <tr><td>
 <div style="font-weight:bold;font-size:14px;position:relative;top:5px;right:675px;"></div>
 </td></tr>
