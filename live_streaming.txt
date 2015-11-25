@@ -5,7 +5,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://free.timeanddate.com/countdown/i4ya2oz3/cf11/cm0/cu4/ct5/cs1/ca0/co1/cr0/ss0/cacfff/cpc000/pc000/tcfff/fs400/szw320/szh135/tatForce%20Thirteen%20LIVE%20will%20begin%20in/tacfff/tptForce%20Thirteen%20LIVE%20will%20begin%20in/tpc000/iso2015-11-29T00:00:00/pl10/pr10/pt20
+CONTENT_URL: http://free.timeanddate.com/countdown/i4ya2oz3/cf11/cm0/cu4/ct5/cs1/ca0/co1/cr0/ss0/cacfff/cpc000/pc000/tcfff/fs400/szw320/szh135/tat<br>Force%20Thirteen%20LIVE%20will%20begin%20in/tacfff/tptForce%20Thirteen%20LIVE%20will%20begin%20in/tpc000/iso2015-11-29T00:00:00/pl10/pr10/pt20
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE Streaming Service&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;This stream is undergoing a testing phase&nbsp;
