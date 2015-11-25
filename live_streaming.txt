@@ -12,6 +12,11 @@ BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen turns four today, another milest
 
 <marquee behavior="scroll" direction="left">
 NHC: Sandra strengthens to a category 2 hurricane, becomes the strongest hurricane in the eastern pacific for this late in the year
+Advisory as of 8:00 AM MST Wed Nov 25
+Location: 12.6°N 109.5°W
+Moving: WNW at 10 mph
+Min pressure: 975 mb
+Max sustained: 100 mph
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
