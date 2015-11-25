@@ -11,12 +11,11 @@ BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live streaming service commences on November 29th at 00:00 UTC&nbsp;
 
 <marquee behavior="scroll" direction="left">
-NHC: Sandra strengthens to a category 2 hurricane, becomes the strongest hurricane in the Eastern Pacific for this late in the year
-Advisory as of 8:00 AM MST Wed Nov 25
-Location: 12.6°N 109.5°W
+Navy report as of 1800 UTC on Wed Nov 25
+Location: 12.7°N 109.7°W
 Moving: WNW at 10 mph
-Min pressure: 975 mb
-Max sustained: 100 mph
+Min pressure: 967 mb
+Max sustained: 110 mph
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
