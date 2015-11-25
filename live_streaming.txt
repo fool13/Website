@@ -6,7 +6,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/iss.html?http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: International Space Station
+LIVE_LOCATION: International Space Station [Currently In Darkness]
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live streaming service commences on November 29th at 00:00 UTC&nbsp;
 
