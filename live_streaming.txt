@@ -21,4 +21,5 @@ www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
 Fool13 on Skype
+<script type="text/javascript">document.getElementById('countdown').style.opacity = "0.5";</script>
 </marquee>
