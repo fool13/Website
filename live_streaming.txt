@@ -11,8 +11,6 @@ BREAKING_NEWS_HEADING: &nbsp;Happy Anniversary&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen turns four today, another milestone added to the calendar&nbsp;
 
 <marquee behavior="scroll" direction="left">
-The Force Thirteen LIVE Streaming Service is undergoing a test phase
-Service begins from November 29, 2015 at 0000 UTC
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
