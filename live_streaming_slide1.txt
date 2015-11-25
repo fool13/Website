@@ -8,28 +8,28 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Hurricane Sandra</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 15:00UTC, 11/25/15</span><br>
-Position: 12.6N, 109.5W<br>
-Wind: 100mph<br>
-Pressure: 975mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span><br>
+Position: 12.7N, 109.7W<br>
+Wind: 110mph<br>
+Pressure: 967mb<br>
 </tr></td><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/27W/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/27W/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm In-fa</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 11/25/15</span><br>
-Position: 20.6N, 137.1E<br>
-Wind: 45mph<br>
-Pressure: 993mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span><br>
+Position: 21.6N, 137.9E<br>
+Wind: 40mph<br>
+Pressure: 996mb<br>
 </tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95P/imagery/vis-animated.gif" style="height:180px;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95P/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Invest 95P</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 11/25/15</span><br>
-Position: 10.3S, 178.9E<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span><br>
+Position: 10.6S, 179.2E<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
