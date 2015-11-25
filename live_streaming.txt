@@ -5,7 +5,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://blogs.ft.com/photo-diary/files/2015/04/ISS_AP.jpg?http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Happy Anniversary&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen turns four today, another milestone added to the calendar&nbsp;
