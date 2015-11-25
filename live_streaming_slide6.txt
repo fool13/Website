@@ -1,14 +1,8 @@
 <br>
-<span class="heading" style="font-size:55px;">Tropical Storm Fred</span>
-<br><br>
-<table style="width:100%;">
-<tr><td style="text-align:right;width:50%;vertical-align:top;">
-<img src="" style="height:400px;">
-</td><td style="text-align:left;width:50%;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/06L/imagery/vis0.gif" style="height:400px;">
-</tr></td>
-<tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/31/15</span><br>
-<strong>70mph</strong> &nbsp;&nbsp;&nbsp; 995mb<br>
+<span class="heading">South Pacific - Water Vapor</span>
+<table style="width:100%;height:680px;background:url('http://tropic.ssec.wisc.edu/real-time/seastpac/images/xxwvg10sbbm.jpg?update3') no-repeat center center;background-size:900px;">
+<tr><td>
+<div style="font-weight:bold;font-size:14px;position:relative;top:190px;right:85px;"></div>
+<div style="font-weight:bold;font-size:14px;position:relative;top:120px;left:190px;"></div>
 </td></tr>
 </table>
