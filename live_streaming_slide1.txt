@@ -18,7 +18,7 @@ Pressure: 975mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Tropical Storm In-fa</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 11/25/15</span><br>
 Position: 20.6N, 137.1E<br>
 Wind: 45mph<br>
 Pressure: 993mb<br>
@@ -28,7 +28,7 @@ Pressure: 993mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Invest 95P</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 11/25/15</span><br>
 Position: 10.3S, 178.9E<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
