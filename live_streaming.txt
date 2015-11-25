@@ -13,9 +13,8 @@ BREAKING_NEWS_DESCRIPTION: &nbsp;Live streaming service commences on November 29
 <marquee behavior="scroll" direction="left">
 Navy report as of 1800 UTC on Wed Nov 25
 Location: 12.7°N 109.7°W
-Moving: WNW at 10 mph
-Min pressure: 967 mb
-Max sustained: 110 mph
+Min Pressure: 967 mb
+Max Sustained: 110 mph
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
