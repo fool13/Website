@@ -7,8 +7,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
-BREAKING_NEWS_HEADING: &nbsp;Happy Anniversary&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen turns four today, another milestone added to the calendar&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Live streaming service commences on November 29th at 00:00 UTC&nbsp;
 
 <marquee behavior="scroll" direction="left">
 NHC: Sandra strengthens to a category 2 hurricane, becomes the strongest hurricane in the Eastern Pacific for this late in the year
