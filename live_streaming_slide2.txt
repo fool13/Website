@@ -2,33 +2,13 @@
 <span class="heading">Tropics at a glance</span>
 <br><br>
 <table style="width:100%;"><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/13E/imagery/rbtop-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03S/imagery/vis-animated.gif" style="height:180px;">
+<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/03S/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Major Hurricane JIMENA</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/30/15</span><br>
-Position: 14.5N, 130.3W<br>
-Wind: 145mph<br>
-Pressure: 940mb<br>
-</tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95L/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/95L/imagery/rbtop-animated.gif" style="height:180px;">
-</td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
-<span style="font-weight:bold;font-size:28px;display:inline-block;">
-Invest 90L</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 08/30/15</span><br>
-Position: 24.7N, 82.4W<br>
-Wind: 30mph<br>
-Pressure: 1013mb<br>
-</tr></td><tr><td style="text-align:right;width:50px;vertical-align:top;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/99L/imagery/vis-animated.gif" style="height:180px;">
-<img src="http://www.ssd.noaa.gov/PS/TROP/floaters/99L/imagery/rbtop-animated.gif" style="height:180px;">
-</td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
-<span style="font-weight:bold;font-size:28px;display:inline-block;">
-Tropical Storm Fred</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 08/31/15</span><br>
-Position: 14.4N, 21.3W<br>
-Wind: 70mph<br>
-Pressure: 995mb<br>
+Ex-Annabelle</span><br>
+<span style="font-size:11px;padding-bottom:10px;">As of 12:00UTC, 11/25/15</span><br>
+Position: 25.1S, 81.5E<br>
+Wind: 35mph<br>
+Pressure: 1000mb<br>
 </tr></td></table>
