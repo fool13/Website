@@ -33,6 +33,3 @@ Position: 10.3S, 178.9E<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
-<script type="text/javascript">
-window.top.location.reload();
-</script>
