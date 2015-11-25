@@ -34,5 +34,5 @@ Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
 <script type="text/javascript">
-document.getElementById("countdown").style.opacity = "0.5";
+document.getElementById("live").style.opacity = "0.1";
 </script>
