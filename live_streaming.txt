@@ -10,7 +10,7 @@ LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
 
-<marquee behavior="scroll" direction="left" style="display:none;">
+<marquee behavior="scroll" direction="left" style="display:inline-block;">
 Welcome to the Force Thirteen LIVE Streaming Service
 www.force-13.com
 www.facebook.com/ForceThirteen
