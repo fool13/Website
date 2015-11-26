@@ -1,19 +1,17 @@
 PLAY_MUSIC: OFF
 MUSIC_URL: https://www.youtube.com/watch?v=lWtBJMg7U_s
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Live streaming service commences on November 29th at 00:00 UTC&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
 
 <marquee behavior="scroll" direction="left">
-1800 UTC: Hurricane Sandra location at 12.7°N 109.7°W
-Min Pressure: 967 mb
-Max Sustained: 110 mph
+Welcome to the Force Thirteen LIVE Streaming Service
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
