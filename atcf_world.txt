@@ -1,5 +1,5 @@
 /// SIM ///   
-01 SYSTEM ACTIVE
+00 SYSTEM ACTIVE
 Date             Name                           mph    mb      Trend    Adv     Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
 
