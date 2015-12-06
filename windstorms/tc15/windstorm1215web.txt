@@ -1,3 +1,5 @@
+12Y    WS&nbsp;TED&nbsp;[UK:&nbsp;DESMOND] 151206 1200  67.0N  -5.9W NATL   40  964
+12Y    WS&nbsp;TED&nbsp;[UK:&nbsp;DESMOND] 151206 0600  67.0N  -2.0W NATL   45  958
 12Y    WS&nbsp;TED&nbsp;[UK:&nbsp;DESMOND] 151206 0000  67.4N   1.0W NATL   45  956
 12Y    WS&nbsp;TED&nbsp;[UK:&nbsp;DESMOND] 151205 1800  66.8N   3.9W NATL   50  953
 12Y    WS&nbsp;TED&nbsp;[UK:&nbsp;DESMOND] 151205 1200  65.7N   7.5W NATL   55  950
