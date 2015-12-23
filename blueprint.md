@@ -1,4 +1,4 @@
-### :cyclone: Force Thirteen Website Blueprint :umbrella:  ###
+## :cyclone: Force Thirteen Website Blueprint :umbrella:  ##
 
 `http://www.force-13.com/`
 
