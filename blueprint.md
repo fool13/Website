@@ -1,4 +1,4 @@
-## Force Thirteen Website Blueprint :star:  ##
+## Force Thirteen Website Blueprint :partly_sunny:  ##
 
 `http://www.force-13.com/`
 
