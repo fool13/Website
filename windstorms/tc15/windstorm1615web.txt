@@ -1,3 +1,7 @@
+16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151225 1200  65.1N   -9.1W NATL   55  974
+16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151225 0600  65.0N   -3.4W NATL   55  969
+16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151225 0000  64.8N   0.6W NATL   45  968
+16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151224 1800  64.2N   3.9W NATL   60  965
 16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151224 1200  62.8N   7.0W NATL   60  966
 16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151224 0600  61.5N   9.0W NATL   65  968
 16Y    WS&nbsp;CHUCK&nbsp;(UK:&nbsp;EVA) 151224 0000  59.1N   10.9W NATL   55  973
