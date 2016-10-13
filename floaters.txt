@@ -1,5 +1,5 @@
 INVEST 92S :: 0.0N 0.0E :: 1
-Not Active :: 0.0N 0.0E :: 1
+WESTERN AUSTRALIA BURN-OFF FIRES :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
