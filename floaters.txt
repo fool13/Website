@@ -1,4 +1,4 @@
-Vanuatu &amp; New Caledonia :: 8.4S 116.4E :: 1
+INVEST 92S :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
@@ -9,4 +9,4 @@ Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 
-Floaters Last Updated:   Mon Oct 3 23:15:16 UTC 2016
+Floaters Last Updated:   Thu Oct 13 09:15:21 UTC 2016
