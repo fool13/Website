@@ -1,6 +1,6 @@
 INVEST 92S :: 0.0N 0.0E :: 1
-PERTH :: 0.0N 0.0E :: 1
-Sarika (KarenPH) :: 0.0N 0.0E :: 1
+Perth :: 0.0N 0.0E :: 1
+Philippines :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
 Not Active :: 0.0N 0.0E :: 1
