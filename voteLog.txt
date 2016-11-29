@@ -53,7 +53,6 @@
 *75.162.228.121* voted for *TIP (1979)*
 *174.140.76.176* voted for *WINSTON (2016)*
 *71.212.252.201* voted for *PATRICIA (2015)*
-*24.155.198.30 (Gaston V2)* voted for *MONICA (2006)*
 *213.114.67.138* voted for *WINSTON (2016)*
 *138.75.201.141 (Ryan)* voted for *PATRICIA (2015)*
 *99.11.198.170* voted for *HAIYAN (2013)*
