@@ -54,58 +54,58 @@ Last update at 18:17 GMT, 19/01/2017
                             Swansea : Frost Advisory
                              
                                  ENGLAND
-                     Northumberland :
-                         N. Cumbria :
-                         Sunderland :
-                             Durham :
-                      Middlesbrough :
-                         S. Cumbria :
-          Richmondshire & Hambleton :
-                          Lancaster :
-                             Craven :
-                          Harrogate :
-                  Eastern Yorkshire :
+                         Birmingham : Frost Advisory
             Blackpool and Fleetwood :
+                    Bolton and Bury :
+                      Bradford area :
+               Bromsgove & Alcester : Frost Advisory
+                             Burton : Frost Advisory
+                     Cambridgeshire : Freeze Warning
+                            Chester :
+                       Chesterfield :
+                           Coventry : Frost Advisory
+                             Craven :
+                         Crewe area :
+                         Derbyshire :
+             Dudley & Kidderminster : Frost Advisory
+                             Durham :
+                      E. Shropshire : Frost Advisory
+                  Eastern Yorkshire :
+                          Harrogate :
+                      Herefordshire : Frost Advisory
+                  Huddersfield area :
+                          Hull area :
+                          Lancaster :
+                         Leeds area :
+                     Leicestershire : Frost Advisory
+               Lichfield & Tamworth : Frost Advisory
+               Liverpool and Sefton :
+                         Manchester :
+                   Mid-Lincolnshire : Frost Advisory
+                      Middlesbrough :
+                         N. Cumbria :
+                            Norfolk : Frost Advisory
+                     North Cheshire :
+                 North Lincolnshire :
+                   Northamptonshire : Freeze Warning
+                     Northumberland :
+                    Nottinghamshire :
+                      Peak District :
+                             Pendle :
                        Preston area :
                       Ribble Valley :
-                             Pendle :
-                      Bradford area :
-                         Leeds area :
-                          Hull area :
-               Liverpool and Sefton :
-                   Wigan and F13 HQ :
-                    Bolton and Bury :
-                  Huddersfield area :
-                     Wakefield area :
-                     North Cheshire :
-                         Manchester :
-                      Peak District :
-            Sheffield and Rotherham :
-                 North Lincolnshire :
-                 Wirral and Deeside :
-                            Chester :
-                         Crewe area :
-                       Chesterfield :
-                   Mid-Lincolnshire : Frost Advisory
-                      Staffordshire :
-                         Derbyshire :
-                    Nottinghamshire :
+          Richmondshire & Hambleton :
                        Rutland area : Frost Advisory
-                      W. Shropshire :
-                      E. Shropshire : Frost Advisory
-               Lichfield & Tamworth : Frost Advisory
-                             Burton : Frost Advisory
-                     Leicestershire : Frost Advisory
-          The Wash and Peterborough : Freeze Warning
-                            Norfolk : Frost Advisory
+                         S. Cumbria :
                       S. Shropshire : Frost Advisory
-                      Wolverhampton : Frost Advisory
-             Dudley & Kidderminster : Frost Advisory
-                         Birmingham : Frost Advisory
-                           Coventry : Frost Advisory
-                      Herefordshire : Frost Advisory
-                     Worcestershire : Frost Advisory
-               Bromsgove & Alcester : Frost Advisory
+            Sheffield and Rotherham :
+                      Staffordshire :
+                         Sunderland :
+          The Wash and Peterborough : Freeze Warning
+                      W. Shropshire :
+                     Wakefield area :
                        Warwickshire : Frost Advisory
-                   Northamptonshire : Freeze Warning
-                     Cambridgeshire : Freeze Warning
+                   Wigan and F13 HQ :
+                 Wirral and Deeside :
+                      Wolverhampton : Frost Advisory
+                     Worcestershire : Frost Advisory
