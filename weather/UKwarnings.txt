@@ -1,27 +1,96 @@
 United Kingdom Warnings
 Last update at 18:17 GMT, 19/01/2017
 
-Scotland
-          Shetland Islands :
-            Orkney Islands :
-                 Caithness :
-                Sutherland :
-             Western Isles :
-         Ross and Cromarty :
-                      Skye :
-                 Inverness :
-                  Aberdeen :
-          Dundee and Angus :
-                   Tayside :
-             Mull and Tiree :
-             Central :
-             Fife :
-             Islay and Jura :
-             Argyll and Arran :
-             Greenock :
-             Glasgow :
+                                 SCOTLAND
+                   Shetland Islands :
+                     Orkney Islands :
+                          Caithness :
+                         Sutherland :
+                      Western Isles :
+                  Ross and Cromarty :
+                               Skye :
+                          Inverness :
+                           Aberdeen :
+                   Dundee and Angus :
+                            Tayside :
+                     Mull and Tiree :
+                            Central :
+                               Fife :
+                     Islay and Jura :
+                   Argyll and Arran :
+                           Greenock :
+                            Glasgow :
              Edinburgh and Lothians :
-             Ayrshire :
-             West Central Scotland :
-             Scottish Borders :
-             Dumfries and Galloway :
+                           Ayrshire :
+              West Central Scotland :
+                   Scottish Borders :
+              Dumfries and Galloway :
+
+                            NORTHERN IRELAND
+                              Derry :
+                             Antrim :
+                             Tyrone :
+                          Fermanagh :
+                             Armagh :
+                               Down :
+                               
+                                  WALES
+                           Anglesey :
+                         N. Gwynedd :
+             Conwy and Denbighshire :
+                         S. Gwynedd :
+                           N. Powys :
+                      N. Ceredigion :
+                           S. Powys :
+                          Southwest :
+                            Swansea :
+                       Cardiff area :
+                      Monmouthshire :
+                      
+                        Isle of Man :
+                              Lundy :
+                    Isles of Scilly :
+                           Alderney :
+                           Guernsey :
+                             Jersey :
+                             
+                                 ENGLAND
+                     Northumberland :
+                         N. Cumbria :
+                         Sunderland :
+                             Durham :
+                      Middlesbrough :
+                         S. Cumbria :
+          Richmondshire & Hambleton :
+                          Lancaster :
+                             Craven :
+                          Harrogate :
+                  Eastern Yorkshire :
+            Blackpool and Fleetwood :
+                       Preston area :
+                      Ribble Valley :
+                             Pendle :
+                      Bradford area :
+                         Leeds area :
+                          Hull area :
+               Liverpool and Sefton :
+                   Wigan and F13 HQ :
+                    Bolton and Bury :
+                  Huddersfield area :
+                     Wakefield area :
+                     North Cheshire :
+                         Manchester :
+                      Peak District :
+            Sheffield and Rotherham :
+                 North Lincolnshire :
+                 Wirral and Deeside :
+                            Chester :
+                         Crewe area :
+                       Chesterfield :
+                   Mid-Lincolnshire :
+                      Staffordshire :
+                         Derbyshire :
+                    Nottinghamshire :
+                       Rutland area :
+                   
+                      
