@@ -2,57 +2,56 @@ United Kingdom Warnings
 Last update at 18:17 GMT, 19/01/2017
 
                                  SCOTLAND
-                   Shetland Islands :
-                     Orkney Islands :
-                          Caithness :
-                         Sutherland :
-                      Western Isles :
-                  Ross and Cromarty :
-                               Skye :
-                          Inverness :
-                           Aberdeen :
-                   Dundee and Angus :
-                            Tayside :
-                     Mull and Tiree :
-                            Central :
-                               Fife :
-                     Islay and Jura :
+                      Aberdeenshire : Frost Advisory
                    Argyll and Arran :
-                           Greenock :
-                            Glasgow :
-             Edinburgh and Lothians :
                            Ayrshire :
-              West Central Scotland :
-                   Scottish Borders :
+                          Caithness :
+                            Central :
               Dumfries and Galloway :
+                   Dundee and Angus : Frost Advisory
+             Edinburgh and Lothians :
+                               Fife :
+                            Glasgow :
+                           Greenock :
+                          Inverness : Frost Advisory
+                     Islay and Jura :
+                     Mull and Tiree :
+                     Orkney Islands :
+                  Ross and Cromarty :
+                   Scottish Borders :
+                   Shetland Islands :
+                               Skye :
+                         Sutherland :
+                            Tayside : Frost Advisory
+              West Central Scotland :
+                      Western Isles :
 
                             NORTHERN IRELAND
-                              Derry :
                              Antrim :
-                             Tyrone :
-                          Fermanagh :
                              Armagh :
+                              Derry : Frost Advisory
                                Down :
+                          Fermanagh :
+                             Tyrone :
                                
                                   WALES
+                           Alderney : Frost Advisory
                            Anglesey :
-                         N. Gwynedd :
+                       Cardiff area : Frost Advisory
              Conwy and Denbighshire :
-                         S. Gwynedd :
-                           N. Powys :
-                      N. Ceredigion :
-                           S. Powys :
-                          Southwest :
-                            Swansea :
-                       Cardiff area :
-                      Monmouthshire :
-                      
+                           Guernsey : Frost Advisory
                         Isle of Man :
-                              Lundy :
-                    Isles of Scilly :
-                           Alderney :
-                           Guernsey :
-                             Jersey :
+                    Isles of Scilly : Frost Advisory
+                             Jersey : Freeze Warning
+                              Lundy : Frost Advisory
+                      Monmouthshire : Freeze Warning
+                      N. Ceredigion : Frost Advisory
+                         N. Gwynedd :
+                           N. Powys :
+                         S. Gwynedd :
+                           S. Powys : Frost Advisory
+                          Southwest : Frost Advisory
+                            Swansea : Frost Advisory
                              
                                  ENGLAND
                      Northumberland :
@@ -87,26 +86,26 @@ Last update at 18:17 GMT, 19/01/2017
                             Chester :
                          Crewe area :
                        Chesterfield :
-                   Mid-Lincolnshire :
+                   Mid-Lincolnshire : Frost Advisory
                       Staffordshire :
                          Derbyshire :
                     Nottinghamshire :
-                       Rutland area :
+                       Rutland area : Frost Advisory
                       W. Shropshire :
-                      E. Shropshire :
-               Lichfield & Tamworth :
-                             Burton :
-                     Leicestershire :
-          The Wash and Peterborough :
-                            Norfolk :
-                      S. Shropshire :
-                      Wolverhampton :
-             Dudley & Kidderminster :
-                         Birmingham :
-                           Coventry :
-                      Herefordshire :
-                     Worcestershire :
-               Bromsgove & Alcester :
-                       Warwickshire :
-                   Northamptonshire :
-                     Cambridgeshire :
+                      E. Shropshire : Frost Advisory
+               Lichfield & Tamworth : Frost Advisory
+                             Burton : Frost Advisory
+                     Leicestershire : Frost Advisory
+          The Wash and Peterborough : Freeze Warning
+                            Norfolk : Frost Advisory
+                      S. Shropshire : Frost Advisory
+                      Wolverhampton : Frost Advisory
+             Dudley & Kidderminster : Frost Advisory
+                         Birmingham : Frost Advisory
+                           Coventry : Frost Advisory
+                      Herefordshire : Frost Advisory
+                     Worcestershire : Frost Advisory
+               Bromsgove & Alcester : Frost Advisory
+                       Warwickshire : Frost Advisory
+                   Northamptonshire : Freeze Warning
+                     Cambridgeshire : Freeze Warning
