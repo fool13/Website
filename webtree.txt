@@ -39,6 +39,7 @@ http://sews.force-13.co.uk/
 http://media.force-13.co.uk/
 http://media.force-13.co.uk/live/
 http://media.force-13.co.uk/news/
+http://media.force-13.co.uk/?/2017-05-19/cyclone-one-makes-landfall-in-samoa/000001
 http://media.force-13.co.uk/news/feed/
 
 http://media.force-13.co.uk/upload.php
