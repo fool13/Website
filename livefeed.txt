@@ -1,2 +1,17 @@
-00000002 2017-05-19 example-article-number-two
-00000001 2017-05-18 article-number-one-example
+00002
+Date Created: 2017-05-19 08:12 UTC
+Date Modified: 2017-05-19 11:03 UTC
+Published By: John Smith
+
+Example: Article number TWO
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel odio non tortor laoreet pharetra et et nisi. Vivamus vulputate aliquet enim, ac gravida tellus efficitur eu. Aliquam nec lacus elit. Sed tempus tincidunt ex, nec cursus mauris.
+
+00001
+Date Created: 2017-05-18 21:37 UTC
+Date Modified: 2017-05-19 02:11 UTC
+Published By: Fred Jones
+
+Article number ONE example
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel odio non tortor laoreet pharetra et et nisi. Vivamus vulputate aliquet enim, ac gravida tellus efficitur eu. Aliquam nec lacus elit. Sed tempus tincidunt ex, nec cursus mauris.
